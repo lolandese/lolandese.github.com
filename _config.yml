@@ -11,10 +11,12 @@ highlighter: pygments
 title : Martin Postma
 tagline: Avid cutting edge Drupal coder
 author :
-  name : Nickname lolandese
+  name : lolandese
   email :
   github : lolandese
-  twitter :
+  drupal : lolandese
+  aboutme : martin.postma
+  facebook : martin.postma
   feedburner :
 
 # The production_url is only used when full-domain names are needed
