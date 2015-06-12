@@ -9,7 +9,7 @@ tagline: Supporting tagline
 - .. an avid cutting edge freelance [Drupal](https://www.drupal.org/ ) coder (see work)
 - .. an experienced travelling polyglot knowledge worker (see story)
 - .. and investor in freedom of mind, body and soul (see filosofy)
-- .. open to Drupal related proposal (see terms).
+- .. open to Drupal related proposals (see terms).
 
 ## I do ..
 - .. write Open Source code used on thousands of sites, to practise and build a traceable reputation
