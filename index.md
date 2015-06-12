@@ -5,31 +5,40 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This simple website tinkered together in a couple of hours, provides the self-promoting answer to who I am, what I do and what I can mean to you.
-
-
 ## I am ..
-
-- ..an avid cutting edge freelance [Drupal](https://www.drupal.org/) coder (see work)
-- ..an experienced travelling polyglot knowledge worker (see story)
-- ..and investor in freedom of mind, body and soul (see filosofy)
-- ..open to any Drupal related proposal (see terms).
-
+- an avid freelance **[Drupal](https://www.drupal.org/)** coder
+- a travelling polyglot knowledge worker
+- an EU citizen with contractor status (VAT)
+- open to accept Drupal related projects.
 
 ## I do ..
-- ..Open Source coding to give back, learn and build traceable reputation
-- ..work for end-clients and agencies to make a living and travel
-- ..study new technologies that fit in my existing profile
-- ..run and yoga to stay healthy.
+- write contrib modules used on thousands of sites
+- work successfully for end-clients and agencies
+- study technologies that fit my profile.
 
+## I can ..
+- build you a **performant and modern** website
+- write **custom modules** for you
+- **migrate** your Drupal 6 site to Drupal 7
+- make your site **multi-language**
+- **debug** your existing site
+- and make it **better maintainable**
+- adapt your site for **different screen sizes**
+- and for **touch devices**
+- enhance image presentation on your site
+- improve your site's:
+  - structure
+  - readability
+  - navigation
+  - user interaction
+- get **more visitors** to your site
+- and make them return (**engage**)
+- sync your website with **social media**
+- train your team in:
+  - best practices
+  - workflow enhancement
+  - clever use of development tools
+- get more out of your **remote working force**
+- **find and attract Drupal talent** proactively.
 
-## Some of the things I can do for you.
-- Build you a performant and modern website.
-- Write you custom Drupal modules.
-- Migrate your Drupal 6 site to Drupal 7.
-- Turn your site multi-language.
-- Make your site adapt to all screen sizes and touch devices.
-- Improve your site's user experience.
-- Improve your site's SE ranking.
-- Streamline and sync your online presence (website, social media, reviews).
-- Train your team in best practices, workflow enhancement and development tools.
+<span class="signs">☎</span> +20 100 89 51 369

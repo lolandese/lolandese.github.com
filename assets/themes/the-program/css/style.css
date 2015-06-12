@@ -545,7 +545,7 @@ No styleguide reference.
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
-  color: #2d2d2d;
+  color: #480000;
 }
 #page {
   background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png');
@@ -558,15 +558,15 @@ html {
 }
 /* LINK */
 a:link {
-  color: #2d2d2d;
+  color: #480000;
   text-decoration: none;
 }
 a:visited {
-  color: #141414;
+  color: #150000;
   text-decoration: none;
 }
 a:hover {
-  color: #474747;
+  color: #7b0000;
   text-decoration: none;
 }
 /* HIGHLIGHTER */
@@ -594,7 +594,7 @@ pre {
   margin: 0;
 }
 .the-header .logo a:visited {
-  color: #2d2d2d;
+  color: #480000;
 }
 .the-header .nav-global {
   text-transform: uppercase;
@@ -608,12 +608,15 @@ pre {
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
+span.signs {
+  font-size: xx-large;
+}
 .unit-article header {
   border-bottom: 5px solid rgba(21, 25, 25, 0.8);
   margin-bottom: 21px;
 }
 .unit-article header h1 {
-  color: #2d2d2d;
+  color: #480000;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -622,14 +625,14 @@ pre {
 .unit-article .entry-content h4,
 .unit-article .entry-content h5,
 .unit-article .entry-content h6 {
-  color: #2d2d2d;
+  color: #480000;
 }
 .unit-article .entry-content h2 a:link,
 .unit-article .entry-content h3 a:link,
 .unit-article .entry-content h4 a:link,
 .unit-article .entry-content h5 a:link,
 .unit-article .entry-content h6 a:link {
-  color: #2d2d2d;
+  color: #480000;
   border: 0;
 }
 .unit-article .entry-content h2 a:visited,
@@ -637,7 +640,7 @@ pre {
 .unit-article .entry-content h4 a:visited,
 .unit-article .entry-content h5 a:visited,
 .unit-article .entry-content h6 a:visited {
-  color: #141414;
+  color: #150000;
   border: 0;
 }
 .unit-article .entry-content h2 a:hover,
@@ -645,7 +648,7 @@ pre {
 .unit-article .entry-content h4 a:hover,
 .unit-article .entry-content h5 a:hover,
 .unit-article .entry-content h6 a:hover {
-  color: #474747;
+  color: #7b0000;
   border: 0;
 }
 .unit-article .entry-content:first-child h2,
@@ -719,6 +722,15 @@ pre {
   margin-left: 0;
   margin-right: 0;
 }
+.unit-article ul ul {
+  margin-bottom: 0;
+}
+.unit-article ul ul > li {
+  list-style-type: circle;
+}
+.unit-article ul > li {
+  margin-left: 20px;
+}
 .unit-article p code,
 .unit-article li code {
   padding: 2px 5px;
@@ -727,7 +739,6 @@ pre {
 }
 .unit-article img {
   display: block;
-  margin-left: auto;
   margin-left: auto;
 }
 .unit-article img.left {
@@ -966,7 +977,7 @@ pre {
   }
   .the-header .unit-head .nav-global li a:hover {
     background-color: #fff04a;
-    color: #474747;
+    color: #7b0000;
   }
   .the-header .unit-head .nav-global li:nth-child(2) {
     border-width: 0 1px;
@@ -1014,7 +1025,7 @@ pre {
   }
   .the-footer {
     background-color: transparent;
-    color: #2d2d2d;
+    color: #480000;
     position: relative;
     top: auto;
     display: block;
