@@ -5,30 +5,40 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This simple website is tinkered together in a couple of hours and does some "self-promotion" on who I am, what I do and what I can do for you.
-
 ## I am ..
-- .. an avid cutting edge freelance [Drupal](https://www.drupal.org/ ) coder (see work)
-- .. an experienced travelling polyglot knowledge worker (see story)
-- .. open to Drupal related proposals (see terms)
-- .. in possession of a Dutch passport and Italian VAT number (see data sheet).
+- an avid freelance **[Drupal](https://www.drupal.org/)** coder
+- a travelling polyglot knowledge worker
+- an EU citizen with contractor status (VAT)
+- open to accept Drupal related projects.
 
 ## I do ..
-- .. write Open Source code used on thousands of sites, to practise and build a traceable reputation
-- .. work for end-clients and agencies to make a living and travel
-- .. study new technologies that fit in my existing profile
+- write contrib modules used on thousands of sites
+- work successfully for end-clients and agencies
+- study technologies that fit my profile.
 
 ## I can ..
-- .. build you a **performant and modern** website
-- .. write **custom Drupal modules** for you
-- .. **migrate** your Drupal 6 site data to Drupal 7
-- .. make your site **multi-language**
-- .. **debug** your existing site and make it **better maintainable**
-- .. make your site **adapt to all screen sizes and touch devices**
-- .. enhance the **multimedia** experience (images, videos) on your site
-- .. improve your site's **structure, readability, navigation and user interaction**
-- .. get **more visitors** to your site and make them return (**engage**)
-- .. streamline and sync your website with **social media** and other sites
-- .. train your team in **best practices, workflow enhancement and clever use of development tools**
-- .. set up a system to **get more out of remote employees**
-- .. use my community knowledge and reputation to **find and attract Drupal talent** for you proactively.
+- build you a **performant and modern** website
+- write **custom modules** for you
+- **migrate** your Drupal 6 site to Drupal 7
+- make your site **multi-language**
+- **debug** your existing site
+- and make it **better maintainable**
+- adapt your site for **different screen sizes**
+- and for **touch devices**
+- enhance image presentation on your site
+- improve your site's:
+  - structure
+  - readability
+  - navigation
+  - user interaction
+- get **more visitors** to your site
+- and make them return (**engage**)
+- sync your website with **social media**
+- train your team in:
+  - best practices
+  - workflow enhancement
+  - clever use of development tools
+- get more out of your **remote working force**
+- **find and attract Drupal talent** proactively.
+
+<span class="signs">☎</span> +20 100 89 51 369
