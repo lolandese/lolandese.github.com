@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ## I am ..
-- .. an avid cutting edge freelance [Drupal](https://www.drupal.org/ "Drupal - Open Source CMS | Drupal.org") coder (see work)
+- .. an avid cutting edge freelance [Drupal](https://www.drupal.org "Drupal - Open Source CMS | Drupal.org") coder (see work)
 - .. an experienced travelling polyglot knowledge worker (see story)
 - .. and investor in freedom of mind, body and soul (see filosofy)
 - .. open to any Drupal related proposal (see terms).
