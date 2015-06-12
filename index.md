@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This simple website tinkered together in a couple of hours, does some "self-promoting" telling you who I am, what I do and what I can do for you.
+This simple website is tinkered together in a couple of hours and does some "self-promotion" on who I am, what I do and what I can do for you.
 
 ## I am ..
 - .. an avid cutting edge freelance [Drupal](https://www.drupal.org/ ) coder (see work)
