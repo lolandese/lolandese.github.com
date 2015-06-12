@@ -5,19 +5,18 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This simple website tinkered together in a couple of hours, provides the self-promoting answer to who I am, what I do and what I can do for you.
+This simple website tinkered together in a couple of hours, does some "self-promoting" telling you who I am, what I do and what I can do for you.
 
 ## I am ..
 - .. an avid cutting edge freelance [Drupal](https://www.drupal.org/ ) coder (see work)
 - .. an experienced travelling polyglot knowledge worker (see story)
-- .. and investor in freedom of mind, body and soul (see filosofy)
-- .. open to Drupal related proposals (see terms).
+- .. open to Drupal related proposals (see terms)
+- .. in possession of a Dutch passport and Italian VAT number (see data sheet).
 
 ## I do ..
 - .. write Open Source code used on thousands of sites, to practise and build a traceable reputation
 - .. work for end-clients and agencies to make a living and travel
 - .. study new technologies that fit in my existing profile
-- .. run and practise yoga to stay healthy.
 
 ## I can ..
 - .. build you a **performant and modern** website
