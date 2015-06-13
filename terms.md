@@ -18,7 +18,7 @@ For the US, Canada and Australia I am tied to the visa regulations. I can come o
 
 ## On location
 
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To cover for those a probationary period of one month should be respected.
+I have a daily all-in rate when working on location that does include accommodation and travel expenses. To cover for those, a probationary period of one month should be respected.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 

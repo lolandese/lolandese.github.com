@@ -15,6 +15,9 @@ Author & maintainer.
 - [Permalink Block](http://drupal.org/project/permalink_block) (D6, D7)
 - [Multi-currency pricelist](http://drupal.org/project/multi_currency_pricelist) (D7)
 
+<a href="https://www.drupal.org/project/flickr"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/flickr-module.png" style="width: 270px;
+margin-right: 15px;"></a><a href="https://www.drupal.org/project/autofloat"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/autofloat-module.png" style="width: 270px;"></a>
+
 ## Backdrop projects
 Author & maintainer.
 
@@ -62,6 +65,11 @@ The latest application, a jobboard for a recruiter company, is still under devel
 - Employment: Contract. Remote.
 
 ## Some projects taken directly (2010 - 2013)
+<a href="http://geodia.pinns.net/en"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/geodia-tablet.png" style="width: 270px;
+margin-right: 15px;"></a><a href="http://www.sinaigrandcasino.com/en"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/casino-notebook.png" style="width: 270px;"></a>
+
+<h4>In no particular order</h4>
+
 - [http://www.ssthistlegorm.com/](http://www.ssthistlegorm.com/). Info about a famous shipwreck and the associated book.
 - [http://geodia.pinns.net/en](http://geodia.pinns.net/en). A publisher.
 - [http://www.german-star.com/](http://www.german-star.com/). Food retailer (plus assist on Facebook page 10.000+ Likes).

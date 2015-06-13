@@ -611,6 +611,11 @@ pre {
 span.signs {
   font-size: xx-large;
 }
+.unit-article img {
+  float: left;
+  border: solid 5px lightgray;
+  padding: 5px;
+}
 .unit-article header {
   border-bottom: 5px solid rgba(21, 25, 25, 0.8);
   margin-bottom: 21px;
@@ -626,6 +631,7 @@ span.signs {
 .unit-article .entry-content h5,
 .unit-article .entry-content h6 {
   color: #480000;
+  clear: both;
 }
 .unit-article .entry-content h2 a:link,
 .unit-article .entry-content h3 a:link,

@@ -5,6 +5,12 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+This online CV site tells you ..
+
+- who I am
+- what I do
+- what I can do for you.
+
 ## I am ..
 - an avid freelance **[Drupal](https://www.drupal.org/)** coder
 - a travelling polyglot knowledge worker
@@ -30,10 +36,11 @@ tagline: Supporting tagline
 ### help your HR
 - **find and attract Drupal talent** proactively
 - **train your team**:
-  - best practice coding (front-/backend)
-  - to use specific development tools
-  - workflow enhancement & deployment
   - Drupal specific project management
+  - how to be a good webmaster / editor
+  - best coding practice (front-/backend)
+  - the use of specific development tools
+  - workflow enhancement & deployment
 - get more out of your **remote working force**
 
 ### improve your existing site
@@ -54,8 +61,8 @@ tagline: Supporting tagline
 - sync your website with **social media**
 - build iframe content or interactive widgets
 
-### continue to maintain a project
-An often encountered problem is that the ones that built a web application vanish after delivery. I can remain available on a convenient part-time remote basis.
+### continue to maintain your project
+Often the ones that built a web application vanish after delivery. I can remain available on a convenient part-time remote basis.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
