@@ -41,4 +41,5 @@ tagline: Supporting tagline
 - get more out of your **remote working force**
 - **find and attract Drupal talent** proactively.
 
+<span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
