@@ -62,10 +62,10 @@ The latest application, a jobboard for a recruiter company, is still under devel
 - Employment: Contract. Remote.
 
 ## Some projects taken directly (2010 - 2013)
+- [http://www.ssthistlegorm.com/](http://www.ssthistlegorm.com/). Info about a famous shipwreck and the associated book.
 - [http://geodia.pinns.net/en](http://geodia.pinns.net/en). A publisher.
 - [http://www.german-star.com/](http://www.german-star.com/). Food retailer (plus assist on Facebook page 10.000+ Likes).
 - [http://www.mousewheel.net/](http://www.mousewheel.net/). A blog about Drupal.
 - [http://www.sinaigrandcasino.com/en](http://www.sinaigrandcasino.com/en). A casino.
 - [http://www.divingbikers.net/](http://www.divingbikers.net/). A travel blog.
 - [http://www.seaqueenfleet.com/](http://www.seaqueenfleet.com/). Liveaboards (plus assist on Facebook page).
-- [http://www.ssthistlegorm.com/](http://www.ssthistlegorm.com/). Info about a famous shipwreck and the associated book.

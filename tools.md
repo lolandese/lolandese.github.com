@@ -15,7 +15,7 @@ tagline: Supporting tagline
 ## Coding
 
 - [Sublime Text 3](http://www.sublimetext.com/)
-- [CSSComb](https://github.com/csscomb/csscomb.js) ([what I wrote about it](https://www.drupal.org/node/2399303))
+- [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote about it](https://www.drupal.org/node/2399303))
 - [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
 - the [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
@@ -25,6 +25,18 @@ tagline: Supporting tagline
 - [Devel](https://www.drupal.org/project/devel)
 - [Devel Themer](https://www.drupal.org/project/devel_themer)
 - [Drupal for Firebug]() (on Chrome)
+
+
+## Deployment & Data Migration
+
+- [Git](https://git-scm.com/)
+- [CTools](https://www.drupal.org/project/ctools)
+- [Feeds](https://www.drupal.org/project/feeds)
+- [Migrate](https://www.drupal.org/project/migrate)
+- [Features](https://www.drupal.org/project/features)
+- [Context](https://www.drupal.org/project/context)
+- [Strongarm](https://www.drupal.org/project/strongarm)
+- [UUID](https://www.drupal.org/project/uuid)
 
 
 ## CLI commands quick reference
@@ -41,25 +53,13 @@ Without the obvious.
 - [drush sql-sync](https://www.drupal.org/project/rebuild)
 - [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
 
-## Deployment & Data Migration
-
-- [Git](https://git-scm.com/)
-- [CTools](https://www.drupal.org/project/ctools)
-- [Feeds](https://www.drupal.org/project/feeds)
-- [Migrate](https://www.drupal.org/project/migrate)
-- [Features](https://www.drupal.org/project/features)
-- [Context](https://www.drupal.org/project/context)
-- [Strongarm](https://www.drupal.org/project/strongarm)
-- [UUID](https://www.drupal.org/project/uuid)
-
-
 ## Other
 
 - [Gimp](http://www.gimp.org/)
 - [Gnumeric](http://www.gnumeric.org/)
 - [FileZilla](https://filezilla-project.org/)
 - [cPanel](http://cpanel.com/)
-- [git fame](https://github.com/oleander/git-fame-rb) ([what I wrote about it](https://www.drupal.org/documentation/git/blame#fame))
+- [git fame](https://github.com/oleander/git-fame-rb) ([I wrote about it](https://www.drupal.org/documentation/git/blame#fame))
 - [ColorZilla](http://www.colorzilla.com/)
 - [CopyTitle](https://chrome.google.com/webstore/detail/copy-title/apjhabidapioenkgnkgblpdbmnbapjpj)
 - [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)

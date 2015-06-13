@@ -10,7 +10,9 @@ tagline: Supporting tagline
 - Resident in  Lecco, Lombardy, Italy
 - Nationality: Netherlands (NL)
 - Born July 1967
-- Independent contractor status, individual company (VAT registered)
+- One man Italian company (VAT registered)
+- With independent contractor status
+
 
 ## Languages
 
@@ -18,6 +20,7 @@ tagline: Supporting tagline
 - Italian (Fluent)
 - English (Fluent)
 - German (Conversational)
+
 
 ## Other
 
