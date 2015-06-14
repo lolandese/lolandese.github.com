@@ -34,7 +34,7 @@ It might be good to know I:
 
 - am more productive in my own place
 - have a dedicated office
-- have no kids
+- have no kids around
 - adapt to your time zone when necessary.
 
 When working remote I ask for:

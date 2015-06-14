@@ -614,7 +614,7 @@ span.signs {
 .unit-article img {
   float: left;
   border: solid 5px lightgray;
-  max-width: 580px;
+  max-width: 96.5%;
   padding: 5px;
 }
 .unit-article header {
