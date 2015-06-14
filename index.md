@@ -5,7 +5,10 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This online CV site tells you ..
+<a href="https://www.flickr.com/photos/desiitaly/2304874364" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2372/2304874364_b7ea60191e_o.jpg" ></a><br />
+<h5><a href="https://www.flickr.com/people/desiitaly/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+
+My online CV site tells you ..
 
 - who I am
 - what I do
@@ -66,3 +69,5 @@ Often the ones that built a web application vanish after delivery. I can remain 
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
+
+<a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personalia"><b>NEXT >></b></a>

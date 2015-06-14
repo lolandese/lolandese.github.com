@@ -5,6 +5,9 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 580px;"></a><br />
+<h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+
 ## Operating system & Local Dev
 
 - [Ubuntu](http://www.ubuntu.com/desktop/features) (primary local machine OS)
@@ -65,3 +68,5 @@ Without the obvious.
 - [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+
+<a href="/work.html" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html" title="Education"><b>NEXT >></b></a>

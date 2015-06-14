@@ -77,3 +77,5 @@ margin-right: 15px;"></a><a href="http://www.sinaigrandcasino.com/en"><img src="
 - [http://www.sinaigrandcasino.com/en](http://www.sinaigrandcasino.com/en). A casino.
 - [http://www.divingbikers.net/](http://www.divingbikers.net/). A travel blog.
 - [http://www.seaqueenfleet.com/](http://www.seaqueenfleet.com/). Liveaboards (plus assist on Facebook page).
+
+<a href="/data.html" title="Personalia"><b><< PREV</b></a> &#124; <a href="/tools.html" title="My Development Tools"><b>NEXT >></b></a>

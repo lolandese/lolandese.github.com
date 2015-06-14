@@ -5,6 +5,9 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<a href="https://www.flickr.com/photos/wrobel/281135463" title="View photo on Flickr" target="_blank"><img src="https://farm1.staticflickr.com/115/281135463_302121a578_n.jpg" ></a><br />
+<h5><a href="https://www.flickr.com/people/wrobel/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+
 Last edited: June 13, 2015
 
 I only do Drupal related projects.
@@ -25,19 +28,20 @@ I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.c
 
 ## 100 % remote
 
-For work done from our premises a more convenient rate applies.
+Work done from my office has a more convenient rate.
 
 It might be good to know I:
 
-- am more productive remote
-- have a dedicated office space
+- am more productive in my own place
+- have a dedicated office
 - have no kids
 - adapt to your time zone when necessary.
 
 When working remote I ask for:
+
 - the availability of technical specifications
 - the use of an issue tracker
-- a central repository to push, Git or "old school" FTP
+- a central repository to push, Git or FTP
 - appointment of a contact person, usually the PM
 - a minimum of weekly conference meetings (VOIP).
 
@@ -56,5 +60,10 @@ Preliminary download/install instructions and training material are made availab
 
 ## My daily rate
 
+Ask me. You will likely be positively surprised.
+
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
+
+
+<a href="/past.html" title="Past experience"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
