@@ -8,7 +8,7 @@ tagline: Supporting tagline
 <a href="https://www.flickr.com/photos/desiitaly/2304874364" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2372/2304874364_b7ea60191e_o.jpg" ></a><br />
 <h5><a href="https://www.flickr.com/people/desiitaly/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
 
-My online CV site tells you ..
+My online CV tells you ..
 
 - who I am
 - what I do
