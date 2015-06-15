@@ -18,4 +18,4 @@ In the Netherlands, somebody holding an engineer's degree is an” ingenieur (nl
 ## HAVO
 The havo ("higher general continued education") is a stream in the secondary educational system of the Netherlands. It has five grades and is generally attended from age twelve to seventeen. A havo diploma provides access to the hbo-level (polytechnic) of tertiary education. At Veenendaal (NL).
 
-<a href="/tools.html" title="My Development Tools"><b><< PREV</b></a> &#124; <a href="/past.html" title="Past experience"><b>NEXT >></b></a>
+<a href="/tools.html" title="My Development Tools"><b><< PREV</b></a> &#124; <a href="/past.html" title="Past experiences"><b>NEXT >></b></a>

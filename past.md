@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past experience
+title: Past experiences
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

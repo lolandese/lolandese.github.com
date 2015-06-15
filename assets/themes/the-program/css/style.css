@@ -1009,7 +1009,7 @@ span.signs {
 /*
 	Not that old computer layout 
 */
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 1024px) {
   .the-header .unit-head .nav-global .logo {
     border-bottom: 0 none;
     display: block;
@@ -1044,7 +1044,7 @@ span.signs {
 /*
 	Huge-screen layout 
 */
-@media only screen and (min-width: 1410px) {
+@media only screen and (min-width: 1280px) {
   .the-header {
     float: left;
     width: 19%;

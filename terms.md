@@ -66,4 +66,4 @@ Ask me. You will likely be positively surprised.
 <span class="signs">☎</span> +20 100 89 51 369
 
 
-<a href="/past.html" title="Past experience"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
+<a href="/past.html" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
