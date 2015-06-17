@@ -23,7 +23,7 @@
 					<ul>
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
 							<li class=""><a href="/" class="">Home</a></li>
-							<li class=""><a href="/data.html" class="">Personalia</a></li>
+							<li class=""><a href="/data.html" class="">Personal info</a></li>
 							<li class=""><a href="/work.html" class="">Projects</a></li>
 							<li class=""><a href="/tools.html" class="">Tools</a></li>
 							<li class=""><a href="/edu.html" class="">Education</a></li>
@@ -32,7 +32,7 @@
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
-		<br /><img src="/assets/images/me.png">
+		<br /><img id="selfportrait" src="/assets/images/me.png">
 		</div><!-- unit-head -->
 	</header>
 	<div class="body" role="main">
@@ -51,10 +51,9 @@
 					<h4>About me</h4>
 					<ul>
 						<li class="contact"><address>Nickname: <span class="author fn n">{{ site.author.name }}</span> <span class="fn email">{{ site.author.email }}</span></address></li>
-						<li class=""><a href="https://www.drupal.org/u/{{ site.author.drupal }}/" rel="me">drupal.org/u/{{ site.author.drupal }}</a></li>
-						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
-						<li class=""><a href="https://about.me/{{ site.author.aboutme }}/" rel="me">about.me/{{ site.author.aboutme }}</a></li>
-						<li class=""><a href="https://www.facebook.com/{{ site.author.facebook }}/" rel="me">facebook.com/{{ site.author.facebook }}</a></li>
+						<li class=""><a href="https://www.drupal.org/u/{{ site.author.drupal }}/" rel="me" target="_blank">drupal.org/u/{{ site.author.drupal }}</a></li>
+						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me" target="_blank">github.com/{{ site.author.github }}</a></li>
+						<li class=""><a href="https://about.me/{{ site.author.aboutme }}/" rel="me" target="_blank">about.me/{{ site.author.aboutme }}</a></li>
 					</ul>
 				</div><!-- misc -->
 				<p class="licence">

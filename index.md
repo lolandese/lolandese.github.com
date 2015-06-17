@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/desiitaly/2304874364" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2372/2304874364_b7ea60191e_o.jpg" ></a><br />
+<a href="https://www.flickr.com/photos/desiitaly/2304874364" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2372/2304874364_b7ea60191e_o.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/desiitaly/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
 
 My online CV tells you ..
@@ -35,6 +35,8 @@ My online CV tells you ..
 
 - make you a **performant and modern** website
 - write **custom modules** for you
+- **override** modules or themes if needed
+- **patch** contrib modules or themes if needed
 
 ### help your HR
 - **find and attract Drupal talent** proactively
@@ -53,7 +55,7 @@ My online CV tells you ..
 - and make it **better maintainable**
 - adapt your site for **different screen sizes**
 - and for **touch devices**
-- enhance image presentation on your site
+- enhance **image presentation** on your site
 - **improve your site's UX**, specifically:
   - structure
   - readability
@@ -62,12 +64,12 @@ My online CV tells you ..
 - get **more visitors** to your site
 - and make them return (**engage**)
 - sync your website with **social media**
-- build iframe content or interactive widgets
+- build **iframe content** to embed e.g. on Facebook
 
 ### continue to maintain your project
-Often the ones that built a web application vanish after delivery. I can remain available on a convenient part-time remote basis.
+I can remain available on a convenient part-time remote basis.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
 
-<a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personalia"><b>NEXT >></b></a>
+<a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personal info"><b>NEXT >></b></a>

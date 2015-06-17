@@ -5,8 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/wrobel/281135463" title="View photo on Flickr" target="_blank"><img src="https://farm1.staticflickr.com/115/281135463_302121a578_n.jpg" ></a><br />
-<h5><a href="https://www.flickr.com/people/wrobel/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+<a href="https://www.flickr.com/photos/24oranges/14417293308" title="View photo on Flickr" target="_blank"><img src="https://farm4.staticflickr.com/3913/14417293308_c1b42b26b4_b.jpg" style="width: 800px;"></a><br />
+<h5><a href="https://www.flickr.com/people/24oranges/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
 
 Last edited: June 13, 2015
 
@@ -28,7 +28,7 @@ I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.c
 
 ## 100 % remote
 
-Work done from my office has a more convenient rate.
+Work done from my office has a convenient rate.
 
 It might be good to know I:
 
@@ -53,9 +53,9 @@ Sometimes it is required to remain available for maintenance work after project 
 
 ## Training
 
-Training programs are custom made company in-house. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
+Training programs are custom made and done on location company in-house. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
 
-Preliminary download/install instructions and training material are made available to participants prior to the course.
+Preliminary software download, install instructions and training material are to be made available to participants prior to the course acoording my instructions.
 
 
 ## My daily rate

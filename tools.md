@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 580px;"></a><br />
+<a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
 
 ## Operating system & Local Dev

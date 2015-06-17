@@ -5,14 +5,13 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/ilbuc/5052298772" title="View photo on Flickr" target="_blank"><img src="https://farm5.staticflickr.com/4086/5052298772_9805764d5f_b.jpg" style="width: 580px;"></a><br />
+<a href="https://www.flickr.com/photos/ilbuc/5052298772" title="View photo on Flickr" target="_blank"><img src="https://farm5.staticflickr.com/4086/5052298772_9805764d5f_b.jpg"></a><br />
 <h5><a href="https://www.flickr.com/people/ilbuc/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
 
-## Personalia
+## Personal info
 - Martin Postma
 - Resident in  Lecco, Lombardy, Italy
 - Nationality: Netherlands (NL)
-- Born July 1967
 - One man Italian company (VAT registered)
 - With independent contractor status
 
