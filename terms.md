@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 <a href="https://www.flickr.com/photos/24oranges/14417293308" title="View photo on Flickr" target="_blank"><img src="https://farm4.staticflickr.com/3913/14417293308_c1b42b26b4_b.jpg" style="width: 800px;"></a><br />
-<h5><a href="https://www.flickr.com/people/24oranges/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+<h5><a href="https://www.flickr.com/people/24oranges/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 Last edited: June 13, 2015
 
