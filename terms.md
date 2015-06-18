@@ -21,7 +21,7 @@ For the US, Canada and Australia [visa regulations](http://travel.state.gov/cont
 
 ## On location
 
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum of one month is owed in any case.
+I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum of one month is required.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 
