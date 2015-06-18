@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 <a href="https://www.flickr.com/photos/ryantylersmith/14033211423" title="View photo on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7172/14033211423_b780c09f1e_b.jpg" style="width: 800px;"></a><br />
-<h5><a href="https://www.flickr.com/people/ryantylersmith/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+<h5><a href="https://www.flickr.com/people/ryantylersmith/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 ## Hogeschool/ TH (former HTS)
 BA, Technical Business Administration (Technische Bedrijfskunde) at Rijswijk (NL)  

@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Hello World!
+layout: front
+title: Home
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 <a href="https://www.flickr.com/photos/desiitaly/2304874364" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2372/2304874364_b7ea60191e_o.jpg" style="width: 800px;"></a><br />
-<h5><a href="https://www.flickr.com/people/desiitaly/" title="View user on Flickr" target="_blank">Photo credit</a></h5>
+<h5><a href="https://www.flickr.com/people/desiitaly/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 My online CV tells you ..
 

@@ -14,9 +14,9 @@ I only do Drupal related projects.
 
 My one man company is registered in Italy. I invoice my services. I do however accept payrolling if required.
 
-Having an EU passport and company, I can be employed freelance in any member state without hassle.
+Having an EU passport and company, I can be employed freelance in any EU member state without hassle.
 
-For the US, Canada and Australia I am tied to the visa regulations. I can come over for a period of 90 days and be compensated for expenses only. I am available remote and open for proposals.
+For the US, Canada and Australia I am tied to the visa regulations. I can come over for a period of 90 days and be compensated for expenses only when on location. I am open for proposals that start on location and continue remote.
 
 
 ## On location
@@ -32,7 +32,7 @@ Work done from my office has a convenient rate.
 
 It might be good to know I:
 
-- am more productive in my own place
+- am most productive in my own place
 - have a dedicated office
 - have no kids around
 - adapt to your time zone when necessary.
@@ -53,9 +53,9 @@ Sometimes it is required to remain available for maintenance work after project 
 
 ## Training
 
-Training programs are custom made and done on location company in-house. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
+Training programs are custom made and given on your location (company in-house). The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
 
-Preliminary software download, install instructions and training material are to be made available to participants prior to the course acoording my instructions.
+Preliminary software download, install instructions and training material are to be made available to participants prior to the course according my instructions.
 
 
 ## My daily rate
