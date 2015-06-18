@@ -8,7 +8,7 @@ tagline: Supporting tagline
 <a href="https://www.flickr.com/photos/24oranges/14417293308" title="View photo on Flickr" target="_blank"><img src="https://farm4.staticflickr.com/3913/14417293308_c1b42b26b4_b.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/24oranges/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
-Last edited: June 13, 2015
+Last edited: June 19, 2015
 
 I only do Drupal related projects.
 
@@ -16,12 +16,12 @@ My one man company is registered in Italy. I invoice my services. I also accept 
 
 I have an EU passport and can work in any EU member state without hassle.
 
-For the US, Canada and Australia [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can come over for a period of 90 days and be compensated for expenses only when on location. Proposals that continue remote are welcome.
+For the US, Canada and Australia [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can come over for a period of 90 days but can only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration after that are welcome.
 
 
 ## On location
 
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go break-even a probationary period of one month is required.
+I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum of one month is owed in any case.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 
