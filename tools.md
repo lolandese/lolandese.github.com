@@ -8,9 +8,9 @@ tagline: Supporting tagline
 <a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
-## Operating system & Local Dev
+## Operating System & Local Dev
 
-- [Ubuntu](http://www.ubuntu.com/desktop/features) (primary local machine OS)
+- [Ubuntu](http://www.ubuntu.com/desktop/features) (primary OS)
 - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 - [VirtualBox](https://www.virtualbox.org/) (e.g. to run [CentOS](https://www.centos.org/))
 

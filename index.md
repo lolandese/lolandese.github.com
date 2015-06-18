@@ -38,23 +38,13 @@ My online CV tells you ..
 - **override** modules or themes if needed
 - **patch** contrib modules or themes if needed
 
-### help your HR
-- **find and attract Drupal talent** proactively
-- **train your team**:
-  - Drupal specific project management
-  - how to be a good webmaster / editor
-  - best coding practice (front-/backend)
-  - the use of specific development tools
-  - workflow enhancement & deployment
-- get more out of your **remote working force**
-
 ### improve your existing site
 - **migrate** from Drupal 6 to Drupal 7
 - make your site **multi-language** (incl RTL)
 - **debug** your existing site
-- and make it **better maintainable**
+- .. and make it **better maintainable**
 - adapt your site for **different screen sizes**
-- and for **touch devices**
+- .. and for **touch devices**
 - enhance **image presentation** on your site
 - **improve your site's UX**, specifically:
   - structure
@@ -62,12 +52,22 @@ My online CV tells you ..
   - navigation
   - user interaction
 - get **more visitors** to your site
-- and make them return (**engage**)
+- .. and make them return (**engage**)
 - sync your website with **social media**
 - build **iframe content** to embed e.g. on Facebook
 
 ### continue to maintain your project
-I can remain available on a convenient part-time remote basis.
+I can remain available on a part-time remote basis.
+
+### help your HR
+- **find and attract Drupal talent** proactively
+- **train your team**:
+  - Drupal specific project management
+  - how to be a good webmaster / editor
+  - best coding practice (front-/backend)
+  - to use development tools better
+  - workflow enhancement & deployment
+- get more out of your **remote working force**
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369

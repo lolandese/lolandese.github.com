@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ## Full Drupal projects
-Author & maintainer.
+Author & maintainer of:
 
 - [Flickr](https://www.drupal.org/project/flickr) (D5, D6, D7)
 - [AutoFloat](https://www.drupal.org/project/autofloat) (D6, D7, D8)
@@ -19,7 +19,7 @@ Author & maintainer.
 margin-right: 15px;"></a><a href="https://www.drupal.org/project/autofloat"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/autofloat-module.png" style="width: 280px;"></a></div>
 
 ## Backdrop projects
-Author & maintainer.
+Author & maintainer of:
 
 - [Flickr](https://github.com/backdrop-contrib/flickr)
 - [AutoFloat](https://github.com/backdrop-contrib/autofloat)

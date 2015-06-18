@@ -13,7 +13,7 @@ tagline: Supporting tagline
 - Resident in  Lecco, Lombardy, Italy
 - Nationality: Netherlands (NL)
 - One man Italian company (VAT registered)
-- With independent contractor status
+- .. with independent contractor status.
 
 
 ## Languages
@@ -26,9 +26,9 @@ tagline: Supporting tagline
 
 ## Other
 
-- In good physical condition and non-smoker.
+- In good health. Non-smoker.
 - Internationally orientated. Lived both in Holland (childhood and education) and Italy (adulthood till present). Traveled many places for work and pleasure.
-- Strong social, training and presentation skills.
+- Experience based social and presentation skills.
 - Married. Italian wife.
 
 <a href="/" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html" title="Work"><b>NEXT >></b></a>

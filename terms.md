@@ -12,11 +12,11 @@ Last edited: June 13, 2015
 
 I only do Drupal related projects.
 
-My one man company is registered in Italy. I invoice my services. I do however accept payrolling if required.
+My one man company is registered in Italy. I invoice my services. I also accept payrolling if required.
 
-Having an EU passport and company, I can be employed freelance in any EU member state without hassle.
+I have an EU passport and can work in any EU member state without hassle.
 
-For the US, Canada and Australia I am tied to the visa regulations. I can come over for a period of 90 days and be compensated for expenses only when on location. I am open for proposals that start on location and continue remote.
+For the US, Canada and Australia [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can come over for a period of 90 days and be compensated for expenses only when on location. Proposals that continue remote are welcome.
 
 
 ## On location
@@ -30,20 +30,20 @@ I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.c
 
 Work done from my office has a convenient rate.
 
-It might be good to know I:
+It is good to know I ..
 
-- am most productive in my own place
+- am most productive remote
 - have a dedicated office
 - have no kids around
 - adapt to your time zone when necessary.
 
-When working remote I ask for:
+Working remotely I ask for ..
 
 - the availability of technical specifications
 - the use of an issue tracker
-- a central repository to push, Git or FTP
-- appointment of a contact person, usually the PM
-- a minimum of weekly conference meetings (VOIP).
+- a central repository to push work, [Git](https://git-scm.com/) or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- a contact person, usually the [PM](https://en.wikipedia.org/?title=Project_manager)
+- weekly online meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
 
 
 ## A combination
@@ -60,7 +60,7 @@ Preliminary software download, install instructions and training material are to
 
 ## My daily rate
 
-Ask me. You will likely be positively surprised.
+Ask me by phone. You will likely be positively surprised.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
