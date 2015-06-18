@@ -16,7 +16,7 @@ My online CV tells you ..
 
 ## I am ..
 - a freelance [Drupal](https://www.drupal.org/u/lolandese) coder
-- a travelling [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker]https://en.wikipedia.org/wiki/Knowledge_worker
+- a travelling [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
 - EU citizen with contractor status (VAT).
 
 ## I do ..
