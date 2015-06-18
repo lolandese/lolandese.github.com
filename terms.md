@@ -21,7 +21,7 @@ For the US, Canada and Australia [visa regulations](http://travel.state.gov/cont
 
 ## On location
 
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To cover for those, a probationary period of one month should be respected.
+I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go break-even a probationary period of one month is required.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 
@@ -32,7 +32,7 @@ Work done from my office has a convenient rate.
 
 It is good to know I ..
 
-- am most productive remote
+- am most productive working at my own place
 - have a dedicated office
 - have no kids around
 - adapt to your time zone when necessary.
@@ -43,17 +43,17 @@ Working remotely I ask for ..
 - the use of an issue tracker
 - a central repository to push work, [Git](https://git-scm.com/) or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 - a contact person, usually the [PM](https://en.wikipedia.org/?title=Project_manager)
-- weekly online meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
+- weekly online progress evaluation meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
 
 
 ## A combination
 
-Sometimes it is required to remain available for maintenance work after project delivery. In that case we can start full-time on location and continue part-time remote.
+If it is required to do maintenance work after project delivery we can start full-time on location and continue part-time remote.
 
 
 ## Training
 
-Training programs are custom made and given on your location (company in-house). The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
+Training programs are custom made and given at your office. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
 
 Preliminary software download, install instructions and training material are to be made available to participants prior to the course according my instructions.
 

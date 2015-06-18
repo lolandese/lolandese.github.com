@@ -15,19 +15,18 @@ My online CV tells you ..
 - what I can do for you.
 
 ## I am ..
-- an avid freelance **[Drupal](https://www.drupal.org/)** coder
-- a travelling polyglot knowledge worker
-- an EU citizen with contractor status (VAT)
-- open to accept Drupal related projects.
+- a freelance [Drupal](https://www.drupal.org/u/lolandese) coder
+- a travelling [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker]https://en.wikipedia.org/wiki/Knowledge_worker
+- EU citizen with contractor status (VAT).
 
 ## I do ..
-- write contrib modules used on thousands of sites
-- work successfully for end-clients and agencies
+- write Open Source modules used on many sites
+- work for end-clients and agencies
 - study technologies that fit my profile.
 
 ## I can ..
 
-### do preliminary work
+### do preliminary work for you
 
 - write project **requirements** and **specifications**
 
