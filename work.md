@@ -63,7 +63,7 @@ The latest application, a jobboard for a recruiter company, is still under devel
 - Role: Lead developer, both back-end and front-end.
 - Employment: Contract. Remote.
 
-## <a name="webshop"></a>One man webshop (2010 - 2013)
+## <a name="webshop"></a>Independent one man webshop (2010 - 2013)
 <div class="clearfix"><a href="http://geodia.pinns.net/en"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/geodia-tablet.png" style="width: 280px;
 margin-right: 15px;"></a><a href="http://www.sinaigrandcasino.com/en"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/casino-notebook.png" style="width: 280px;"></a></div>
 A selection, in no particular order:

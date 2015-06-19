@@ -21,7 +21,7 @@ My online CV tells you ..
   (EU:VAT-NL:VAR-IT:P.IVA).
 
 ## I do ..
-- write Open Source modules used on many sites
+- write Open Source code that is used by many
 - work for end-clients and agencies
 - study technologies that fit my profile.
 
