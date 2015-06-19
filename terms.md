@@ -16,7 +16,7 @@ My one man company is registered in Italy. I invoice my services. I also accept 
 
 I have an EU passport and can work in any EU member state without hassle.
 
-For the US, Canada and Australia [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can come over for a period of 90 days but can only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration after that are welcome.
+For the US [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can stay for a period of 90 days but only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration are welcome.
 
 
 ## On location
@@ -46,21 +46,21 @@ Working remotely I ask for ..
 - weekly online progress evaluation meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
 
 
-## A combination
+## A combination (including after-sales)
 
-If it is required to do maintenance work after project delivery we can start full-time on location and continue part-time remote.
+I can start full-time on location and continue part-time remote to do maintenance work after project delivery.
 
 
 ## Training
 
 Training programs are custom made and given at your office. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
 
-Preliminary software download, install instructions and training material are to be made available to participants prior to the course according my instructions.
+Software install instructions and training material are to be made available to participants prior to the course according my instructions.
 
 
 ## My daily rate
 
-Ask me by phone. You will likely be positively surprised.
+Ask me by phone. Most say it's less than what they expected.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369

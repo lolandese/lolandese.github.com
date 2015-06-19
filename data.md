@@ -12,8 +12,9 @@ tagline: Supporting tagline
 - Martin Postma
 - Resident in  Lecco, Lombardy, Italy
 - Nationality: Netherlands (NL)
-- One man Italian company (VAT registered)
-- .. with independent contractor status.
+- One man Italian company (P.IVA)
+- Independent contractor status (NL: VAR verklaring)
+- EU VAT number: IT03483860***
 
 
 ## Languages
@@ -28,7 +29,8 @@ tagline: Supporting tagline
 
 - In good health. Non-smoker.
 - Internationally orientated. Lived both in Holland (childhood and education) and Italy (adulthood till present). Traveled many places for work and pleasure.
-- Experience based social and presentation skills.
+- Social and presentation skills based on experience.
+- [Others say](https://www.airbnb.com/users/show/7889468) I am neat and orderly but still flexible.
 - Married. Italian wife.
 
 <a href="/" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html" title="Work"><b>NEXT >></b></a>

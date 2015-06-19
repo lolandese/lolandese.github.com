@@ -11,13 +11,13 @@ tagline: Supporting tagline
 My online CV tells you ..
 
 - who I am
-- what I do
+- what I do / did
 - what I can do for you.
 
 ## I am ..
 - a freelance [Drupal](https://www.drupal.org/u/lolandese) coder
 - a travelling [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
-- EU citizen with contractor status (VAT).
+- EU citizen with contractor status (EU:VAT-NL:VAR-IT:P.IVA).
 
 ## I do ..
 - write Open Source modules used on many sites
