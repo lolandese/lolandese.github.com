@@ -2,6 +2,7 @@
 layout: page
 title: My Development Tools
 tagline: Supporting tagline
+icon: wrench
 ---
 {% include JB/setup %}
 

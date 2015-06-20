@@ -2,6 +2,7 @@
 layout: page
 title: Work
 tagline: Supporting tagline
+icon: briefcase
 ---
 {% include JB/setup %}
 

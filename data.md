@@ -2,6 +2,7 @@
 layout: page
 title: Data
 tagline: Supporting tagline
+icon: user
 ---
 {% include JB/setup %}
 

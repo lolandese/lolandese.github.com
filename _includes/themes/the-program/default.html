@@ -11,6 +11,7 @@
 	<link rel="shortcut icon" href="/assets/images/fav_brown.ico" type="image/vnd.microsoft.icon" />
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
@@ -20,15 +21,15 @@
 		<div class="unit-head">
 			<div class="unit-inner unit-head-inner">
 				<nav class="nav-global">
-					<ul>
+					<ul class="fa-ul">
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
-							<li class=""><a href="/" class="">Home</a></li>
-							<li class=""><a href="/data.html" class="">Personal info</a></li>
-							<li class=""><a href="/work.html" class="">Projects</a></li>
-							<li class=""><a href="/tools.html" class="">Tools</a></li>
-							<li class=""><a href="/edu.html" class="">Education</a></li>
-							<li class=""><a href="/past.html" class="">Past</a></li>
-							<li class=""><a href="/terms.html" class="">Terms</a></li>
+							<li class=""><a href="/" class=""><i class="fa fa-home fa-fw fa-lg"></i>&nbsp;Home</a></li>
+							<li class=""><a href="/data.html" class=""><i class="fa fa-user fa-fw fa-lg"></i>&nbsp;Data</a></li>
+							<li class=""><a href="/work.html" class=""><i class="fa fa-briefcase fa-fw fa-lg"></i>&nbsp;Portfolio</a></li>
+							<li class=""><a href="/tools.html" class=""><i class="fa fa-wrench fa-fw fa-lg"></i>&nbsp;Tools</a></li>
+							<li class=""><a href="/edu.html" class=""><i class="fa fa-graduation-cap fa-fw fa-lg"></i>&nbsp;Education</a></li>
+							<li class=""><a href="/past.html" class=""><i class="fa fa-clock-o fa-fw fa-lg"></i>&nbsp;Past</a></li>
+							<li class=""><a href="/terms.html" class=""><i class="fa fa-legal fa-fw fa-lg"></i>&nbsp;Terms</a></li>
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
@@ -48,21 +49,21 @@
 		<div class="unit-foot">
 			<div class="unit-inner unit-foot-inner">
 				<div class="misc vcard">
-					<h4>Profiles</h4>
-					<ul>
-						<li class="contact"><address>Nickname: <span class="author fn n">{{ site.author.name }}</span> <span class="fn email">{{ site.author.email }}</span></address></li>
-						<li class=""><a href="https://www.drupal.org/u/{{ site.author.drupal }}/" rel="me" target="_blank">drupal.org/u/{{ site.author.drupal }}</a></li>
-						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me" target="_blank">github.com/{{ site.author.github }}</a></li>
-						<li class=""><a href="https://about.me/{{ site.author.aboutme }}/" rel="me" target="_blank">about.me/{{ site.author.aboutme }}</a></li>
+					<h4>User profiles</h4>
+					<ul class="fa-ul">
+						<li class="contact"><address>Username: <span class="author fn n">{{ site.author.name }}</span> <span class="fn email">{{ site.author.email }}</span></address></li>
+						<li class=""><a href="https://www.drupal.org/u/{{ site.author.drupal }}/" rel="me" target="_blank"><i class="fa fa-drupal fa-fw fa-lg"></i>&nbsp;Drupal</a></li>
+						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me" target="_blank"><i class="fa fa-github-alt fa-fw fa-lg"></i>&nbsp;GitHub</a></li>
+						<li class=""><a href="https://about.me/{{ site.author.aboutme }}/" rel="me" target="_blank"><i class="fa fa-meanpath fa-fw fa-lg"></i>&nbsp;about.me</a></li>
 					</ul>
 				</div><!-- misc -->
 				<p class="licence">
 					<h4>Contact</h4>
-					&nbsp;<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span>&nbsp;Leave a message</a><br />
-					<a href="tel:+201008951369"><span class="signs">☎</span> +20 100 89 51 369</a><br />
-					&nbsp;<a href="http://www.timeanddate.com/worldclock/italy/milan" target="_blank"><span class="signs">⌚</span>&nbsp; CET (UTC+02:00)</a><br /><br />
+					<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><i class="fa fa-envelope-o fa-fw fa-lg"></i>&nbsp;Leave a message</a><br />
+					<a href="tel:+201008951369"><i class="fa fa-phone fa-fw fa-lg"></i>&nbsp;+20 100 89 51 369</a><br />
+					<a href="http://www.timeanddate.com/worldclock/italy/milan" target="_blank"><i class="fa fa-clock-o fa-fw fa-lg"></i>&nbsp;CET (UTC+02:00)</a><br /><br />
 					<h4>Download</h4>
-					&nbsp;<a href="/assets/download/POSTMA_Martin_CV_(EN).pdf"><span class="signs">↧</span>&nbsp; CV in PDF</a>
+					<a href="/assets/download/POSTMA_Martin_CV_(EN).pdf"><i class="fa fa-download fa-fw fa-lg"></i>&nbsp;CV in PDF</a>
 					<br /><a href="https://www.drupal.org/u/{{ site.author.drupal }}/" rel="me" target="_blank"><img src="https://www.drupal.org/sites/all/modules/drupalorg/drupalorg/images/association_ind_member_badge.svg" style="width: 220px;"></a>
 				</p>
 			</div><!-- unit-foot-inner -->

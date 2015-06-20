@@ -2,6 +2,7 @@
 layout: page
 title: Education
 tagline: Supporting tagline
+icon: graduation-cap
 ---
 {% include JB/setup %}
 

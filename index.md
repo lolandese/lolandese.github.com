@@ -59,7 +59,7 @@ My online CV tells you ..
 ### continue to maintain your project
 I can remain available on a part-time remote basis.
 
-### help your HR
+### help your Human Resources department
 - **find and attract Drupal talent** proactively
 - **train your team**:
   - Drupal specific project management
@@ -72,7 +72,7 @@ I can remain available on a part-time remote basis.
 
 ## Feel free to contact me
 
-<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a><br />
-<a href="tel:+201008951369"><span class="signs">☎</span> +20 100 89 51 369</a> <a href="http://www.timeanddate.com/worldclock/italy/milan" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
+<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+201008951369">call me directly<br />
+<span class="signs">☎</span> +20 100 89 51 369</a> <a href="http://www.timeanddate.com/worldclock/italy/milan" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
 
 <a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personal info"><b>NEXT >></b></a>

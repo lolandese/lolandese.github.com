@@ -556,6 +556,9 @@ html {
 .body .unit-body {
   background-color: #fafafa;
 }
+ul.fa-ul {
+  margin-left: 0;
+}
 /* LINK */
 a:link {
   color: #480000;
@@ -891,6 +894,10 @@ span.signs {
 }
 /* FOOTER
 ----------------------------------------------- */
+.the-footer ul.fa-ul {
+  list-style: none;
+  padding-left: 0;
+}
 .the-footer a:link {
   color: #c26164;
   border: 0;
@@ -1111,9 +1118,9 @@ span.signs {
   }
   .the-footer h4 {
     font-size: 30px;
-    line-height: 52px;
+    line-height: 42px;
     margin-top: 0;
-    margin-bottom: 26px;
+    margin-bottom: 0;
   }
 }
 pre .c {
