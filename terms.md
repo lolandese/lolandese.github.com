@@ -60,7 +60,7 @@ Software install instructions and training material are to be made available to 
 
 ## My daily rate
 
-Ask me by phone. Most say it's less than what they expected.
+Ask me by phone. Most say it's competitive.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
 <span class="signs">☎</span> +20 100 89 51 369
