@@ -63,6 +63,6 @@ Software install instructions and training material are to be made available to 
 Most say it's competitive. Feel free to give me a call.
 
 <a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span> Contact me</a><br />
-<a href="tel:+201008951369"><span class="signs">☎</span> +20 100 89 51 369</a> ([UTC+02:00](http://www.timeanddate.com/worldclock/italy/milan))
+<a href="tel:+201008951369"><span class="signs">☎</span> +20 100 89 51 369</a> <a href="http://www.timeanddate.com/worldclock/italy/milan" target="_blank">CET (UTC+02:00)</a>
 
 <a href="/past.html" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
