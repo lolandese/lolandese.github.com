@@ -31,7 +31,7 @@ icon: user
 - In good health. Non-smoker.
 - Internationally orientated. Lived both in Holland (childhood and education) and Italy (adulthood till present). Traveled many places for work and pleasure.
 - Social and presentation skills based on experience.
-- [Others say](https://www.airbnb.com/users/show/7889468) I am neat and orderly but still flexible.
+- [Others say](https://www.airbnb.com/users/show/7889468) I am neat and ordered but also flexible.
 - Married. Italian wife.
 
 <a href="/#top" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html#top" title="Work"><b>NEXT >></b></a>
