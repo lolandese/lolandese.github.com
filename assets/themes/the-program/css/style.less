@@ -35,7 +35,7 @@ a {
 		text-decoration: none;
 	}
 	&:visited {
-		color: darken(@main-font-color, 10%);
+		color: @main-font-color;
 		text-decoration: none;
 	}
 	&:hover {
@@ -43,6 +43,7 @@ a {
 		text-decoration: none;
 	}
 }
+
 
 /* HIGHLIGHTER */
 pre { margin-bottom: @line-height / @em; }
@@ -69,6 +70,7 @@ pre {
 	.logo {
 		font-family: @webfont;
 		margin: 0;
+		text-transform: none;
 		a:visited { color: @main-font-color; }
 	}
 	.nav-global {

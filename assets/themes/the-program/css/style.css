@@ -562,7 +562,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: #150000;
+  color: #480000;
   text-decoration: none;
 }
 a:hover {
@@ -592,6 +592,7 @@ pre {
 .the-header .logo {
   font-family: UbuntuMono-B, consolas, monaco, monospace;
   margin: 0;
+  text-transform: none;
 }
 .the-header .logo a:visited {
   color: #480000;
@@ -941,10 +942,6 @@ span.signs {
 }
 .the-footer a:link {
   color: #c26164;
-  border: 0;
-}
-.the-footer a:visited {
-  color: #ad4346;
   border: 0;
 }
 .the-footer a:hover {
