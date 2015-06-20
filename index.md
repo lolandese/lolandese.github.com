@@ -73,6 +73,6 @@ I can remain available on a part-time remote basis.
 ## Feel free to contact me
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
-<span class="signs">☎</span> +20 100 89 51 369 (UTC+02:00)
+<a href="tel:+201008951369"><span class="signs">☎</span> +20 100 89 51 369</a> ([UTC+02:00](http://www.timeanddate.com/worldclock/italy/milan))
 
 <a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personal info"><b>NEXT >></b></a>
