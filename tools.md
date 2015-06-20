@@ -72,4 +72,4 @@ Without the obvious.
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
-<a href="/work.html" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html" title="Education"><b>NEXT >></b></a>
+<a href="/work.html#top" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html#top" title="Education"><b>NEXT >></b></a>

@@ -66,4 +66,4 @@ Most say it's competitive.
 
 ##### Last edited: June 19, 2015
 
-<a href="/past.html" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
+<a href="/past.html#top" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/#top" title="Home"><b>NEXT >></b></a>

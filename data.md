@@ -34,4 +34,4 @@ icon: user
 - [Others say](https://www.airbnb.com/users/show/7889468) I am neat and orderly but still flexible.
 - Married. Italian wife.
 
-<a href="/" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html" title="Work"><b>NEXT >></b></a>
+<a href="/#top" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html#top" title="Work"><b>NEXT >></b></a>

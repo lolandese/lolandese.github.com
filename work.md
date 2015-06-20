@@ -80,4 +80,4 @@ Also assist on Facebook page with 10.000+ Likes.
 - [www.divingbikers.net](http://www.divingbikers.net/). A travel blog.
 - [www.seaqueenfleet.com](http://www.seaqueenfleet.com/). Liveaboards.
 
-<a href="/data.html" title="Personal info"><b><< PREV</b></a> &#124; <a href="/tools.html" title="My Development Tools"><b>NEXT >></b></a>
+<a href="/data.html#top" title="Personal info"><b><< PREV</b></a> &#124; <a href="/tools.html#top" title="My Development Tools"><b>NEXT >></b></a>
