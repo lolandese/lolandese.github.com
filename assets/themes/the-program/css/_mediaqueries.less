@@ -60,6 +60,42 @@
 
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 	img { max-width: 100%; }
+	.the-header {
+		.unit-head {
+			padding: 0;
+			.nav-global {
+				li {
+					border: 1px solid rgba(0, 0, 0, 0.05);
+					border-width: 0 1px 0 0;
+					a, div {
+						display: block;
+						padding: 16px; 
+						margin: 5px;
+						border: solid 2px;
+						font-size: large;
+					}
+					a:link {}
+					a:hover {
+						background-color: #fff04a;
+						color: lighten(@main-font-color, 10%);
+					}
+				}
+				li:nth-child(2) { border-width: 0 1px; }
+				li:last-child { border-width: 0; }
+				.logo {
+					border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+					border-right: none 0;
+					display: block;
+					width: 100%;
+					a {
+						font-size: 30px;
+						line-height: normal;
+					}
+					a:hover { background-color: transparent; }
+				}
+			}
+		}
+	} // the-header
 }
 
 /*

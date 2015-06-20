@@ -968,6 +968,44 @@ span.signs {
   img {
     max-width: 100%;
   }
+  .the-header .unit-head {
+    padding: 0;
+  }
+  .the-header .unit-head .nav-global li {
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-width: 0 1px 0 0;
+  }
+  .the-header .unit-head .nav-global li a,
+  .the-header .unit-head .nav-global li div {
+    display: block;
+    padding: 16px;
+    margin: 5px;
+    border: solid 2px;
+    font-size: large;
+  }
+  .the-header .unit-head .nav-global li a:hover {
+    background-color: #fff04a;
+    color: #7b0000;
+  }
+  .the-header .unit-head .nav-global li:nth-child(2) {
+    border-width: 0 1px;
+  }
+  .the-header .unit-head .nav-global li:last-child {
+    border-width: 0;
+  }
+  .the-header .unit-head .nav-global .logo {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    border-right: none 0;
+    display: block;
+    width: 100%;
+  }
+  .the-header .unit-head .nav-global .logo a {
+    font-size: 30px;
+    line-height: normal;
+  }
+  .the-header .unit-head .nav-global .logo a:hover {
+    background-color: transparent;
+  }
 }
 /*
 	Tablet
