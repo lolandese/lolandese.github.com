@@ -69,7 +69,10 @@ I can remain available on a part-time remote basis.
   - workflow enhancement & deployment
 - get more out of your **remote working force**
 
+
+## Feel free to contact me
+
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
-<span class="signs">☎</span> +20 100 89 51 369
+<span class="signs">☎</span> +20 100 89 51 369 (UTC+02:00)
 
 <a href="/terms.html" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html" title="Personal info"><b>NEXT >></b></a>

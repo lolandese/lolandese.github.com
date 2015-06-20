@@ -60,10 +60,10 @@ Software install instructions and training material are to be made available to 
 
 ## My daily rate
 
-Ask me by phone. Most say it's competitive.
+Most say it's competitive. Feel free to give me a call.
 
 <span class="signs">✍</span> <a href="http://www.mousewheel.net/contact">Contact me</a><br />
-<span class="signs">☎</span> +20 100 89 51 369
+<span class="signs">☎</span> +20 100 89 51 369 (UTC+02:00)
 
 
 <a href="/past.html" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/" title="Home"><b>NEXT >></b></a>
