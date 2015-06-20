@@ -46,6 +46,7 @@ tagline: Supporting tagline
 Without the obvious.
 
 - [git apply -R path/file.patch](https://www.drupal.org/patch/reverse)
+- [jc scss](https://github.com/joelthelion/autojump)
 - [drush make build-example.make ~/www/yoursite](http://www.drushcommands.com/drush-7x/make/make)
 - [drush dcs](https://www.drupal.org/node/1419988) (Drupal coding standard compliance)
 - [drush iq-diff > example.patch](http://cgit.drupalcode.org/drush_iq/plain/README.txt?id=refs/heads/7.x-1.x)
@@ -55,6 +56,7 @@ Without the obvious.
 - [drush rr](https://www.drupal.org/project/registry_rebuild)
 - [drush sql-sync](https://www.drupal.org/project/rebuild)
 - [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
+
 
 ## Other
 

@@ -41,7 +41,7 @@ Working remotely I ask for ..
 
 - the availability of technical specifications
 - the use of an issue tracker
-- a central repository to push work, [Git](https://git-scm.com/) or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- a central repository to push my work to, [Git](https://git-scm.com/) or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 - a contact person, usually the [PM](https://en.wikipedia.org/?title=Project_manager)
 - weekly online progress evaluation meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
 
