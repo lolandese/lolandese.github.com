@@ -95,6 +95,19 @@
 				}
 			}
 		}
+		img#selfportrait::before {
+			content: "W";
+		}
+		img#selfportrait {
+			float: right;
+			margin: 10px;
+			-moz-transform: scaleX(-1);
+			-o-transform: scaleX(-1);
+			-webkit-transform: scaleX(-1);
+			transform: scaleX(-1);
+			filter: FlipH;
+			-ms-filter: "FlipH";
+		}
 	} // the-header
 }
 
@@ -103,10 +116,6 @@
 */
 
 @media only screen and (min-width: 768px) {
-	img#selfportrait {
-		display: none;
-	}
-
 	.the-header {
 		.unit-head {
 			padding: 0;
@@ -141,6 +150,16 @@
 				}
 			}
 		}
+		img#selfportrait {
+			float: right;
+			margin: 10px;
+			-moz-transform: scaleX(-1);
+			-o-transform: scaleX(-1);
+			-webkit-transform: scaleX(-1);
+			transform: scaleX(-1);
+			filter: FlipH;
+			-ms-filter: "FlipH";
+		}
 	} // the-header
 
 } // min-width: 768px
@@ -165,6 +184,19 @@
 					}
 				}
 			}
+		}
+		img#selfportrait::before {
+			content: "\f039";
+		}
+		img#selfportrait {
+			float: right;
+			margin: 10px;
+			-moz-transform: scaleX(-1);
+			-o-transform: scaleX(-1);
+			-webkit-transform: scaleX(-1);
+			transform: scaleX(-1);
+			filter: FlipH;
+			-ms-filter: "FlipH";
 		}
 	} // the-header
 
@@ -198,9 +230,6 @@
 */
 
 @media only screen and (min-width: 1280px) {
-	img#selfportrait {
-		display: initial;
-	}
 
 	.the-header {
 			float: left;
@@ -233,6 +262,16 @@
 					}
 				}
 			}
+		}
+		img#selfportrait {
+			float: left;
+			margin: 0;
+			-moz-transform: scaleX(1);
+			-o-transform: scaleX(1);
+			-webkit-transform: scaleX(1);
+			transform: scaleX(1);
+			filter: initial;
+			-ms-filter: initial;
 		}
 	} // the-header
 

@@ -1006,14 +1006,24 @@ span.signs {
   .the-header .unit-head .nav-global .logo a:hover {
     background-color: transparent;
   }
+  .the-header img#selfportrait::before {
+    content: "W";
+  }
+  .the-header img#selfportrait {
+    float: right;
+    margin: 10px;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+  }
 }
 /*
 	Tablet
 */
 @media only screen and (min-width: 768px) {
-  img#selfportrait {
-    display: none;
-  }
   .the-header .unit-head {
     padding: 0;
   }
@@ -1051,6 +1061,16 @@ span.signs {
   .the-header .unit-head .nav-global .logo a:hover {
     background-color: transparent;
   }
+  .the-header img#selfportrait {
+    float: right;
+    margin: 10px;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+  }
 }
 /*
 	Not that old computer layout 
@@ -1065,6 +1085,19 @@ span.signs {
     line-height: 18px;
     margin-bottom: 0;
     padding-left: 52px;
+  }
+  .the-header img#selfportrait::before {
+    content: "\f039";
+  }
+  .the-header img#selfportrait {
+    float: right;
+    margin: 10px;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
   }
   .body {
     float: left;
@@ -1091,9 +1124,6 @@ span.signs {
 	Huge-screen layout 
 */
 @media only screen and (min-width: 1280px) {
-  img#selfportrait {
-    display: initial;
-  }
   .the-header {
     float: left;
     width: 19%;
@@ -1127,6 +1157,16 @@ span.signs {
     padding-left: 5px;
     position: relative;
     top: auto;
+  }
+  .the-header img#selfportrait {
+    float: left;
+    margin: 0;
+    -moz-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+    filter: initial;
+    -ms-filter: initial;
   }
   .body {
     border-left: 1px solid rgba(0, 0, 0, 0.2);
