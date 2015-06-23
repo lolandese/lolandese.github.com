@@ -34,9 +34,11 @@ My online CV tells you ..
 ### do the building
 
 - make you a **performant and modern** website
-- write **custom modules** for you
-- **override** modules or themes if needed
-- **patch** contrib modules or themes if needed
+- .. using as little modules possible
+- **override** or **patch** Drupal code where needed
+- .. and write **custom code** when necessary
+- **set up** dev, stage and production environment
+- **deploy** with version control
 
 ### improve your existing site
 - **migrate** from Drupal 6 to Drupal 7
@@ -53,8 +55,8 @@ My online CV tells you ..
   - user interaction
 - get **more visitors** to your site
 - .. and make them return (**engage**)
-- sync your website with **social media**
-- build **iframe content** to embed e.g. on Facebook
+- couple your website with **social media**
+- build **content to embed** on FB pages
 
 ### continue to maintain your project
 I can remain available on a part-time remote basis.

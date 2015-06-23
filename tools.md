@@ -57,6 +57,7 @@ Without the obvious.
 - [drush rr](https://www.drupal.org/project/registry_rebuild)
 - [drush sql-sync](https://www.drupal.org/project/rebuild)
 - [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
+- [git fame](https://github.com/oleander/git-fame-rb) ([I wrote about it](https://www.drupal.org/documentation/git/blame#fame))
 
 
 ## Other
@@ -65,7 +66,6 @@ Without the obvious.
 - [Gnumeric](http://www.gnumeric.org/)
 - [FileZilla](https://filezilla-project.org/)
 - [cPanel](http://cpanel.com/)
-- [git fame](https://github.com/oleander/git-fame-rb) ([I wrote about it](https://www.drupal.org/documentation/git/blame#fame))
 - [ColorZilla](http://www.colorzilla.com/)
 - [CopyTitle](https://chrome.google.com/webstore/detail/copy-title/apjhabidapioenkgnkgblpdbmnbapjpj)
 - [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
