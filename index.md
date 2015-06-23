@@ -65,10 +65,12 @@ I can remain available on a part-time remote basis.
 - **find and attract Drupal talent** proactively
 - **train your team**:
   - Drupal specific project management
-  - how to be a good webmaster / editor
+  - master your Drupal site
+  - .. from web editing to building Views
   - best coding practice (front-/backend)
-  - to use development tools better
-  - workflow enhancement & deployment
+  - use of development tools
+  - set up dev, staging and production
+  - version control & deployment
 - get more out of your **remote working force**
 
 
