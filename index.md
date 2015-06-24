@@ -40,7 +40,7 @@ My online CV tells you ..
 - **set up** dev, stage and production environment
 - **deploy** with version control
 
-### improve your existing site
+### improve your existing Drupal site
 - **migrate** from Drupal 6 to Drupal 7
 - make your site **multi-language** (incl RTL)
 - **debug** your existing site
