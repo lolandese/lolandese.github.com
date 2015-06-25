@@ -402,8 +402,8 @@ No styleguide reference.
 */
 body {
   font-family: consolas, monaco, monospace;
-  font-size: 1em;
-  line-height: 1.625em;
+  font-size: 1.2em;
+  line-height: 1.5625em;
 }
 /*
 Font size setting
@@ -454,15 +454,15 @@ ol,
 dl,
 img {
   margin-top: 0;
-  margin-bottom: 1.625em;
+  margin-bottom: 1.5625em;
 }
 small,
 .small,
 aside {
-  font-size: 0.75em;
+  font-size: 0.625em;
 }
 .font-size-default {
-  font-size: 1em;
+  font-size: 0.83333333em;
 }
 blockquote {
   font-weight: bold;
@@ -574,7 +574,7 @@ a:hover {
 }
 /* HIGHLIGHTER */
 pre {
-  margin-bottom: 1.625em;
+  margin-bottom: 1.5625em;
 }
 pre {
   color: #f2f2f2;
@@ -583,7 +583,7 @@ pre {
   font-family: consolas, monaco, monospace;
   margin-left: 0;
   margin-right: 0;
-  padding: 1.625em;
+  padding: 1.5625em;
   overflow: auto;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.6);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.6);
@@ -802,7 +802,7 @@ span.signs {
 }
 .unit-article .unit-foot {
   border-top: 5px solid rgba(21, 25, 25, 0.8);
-  padding-top: 1.625em;
+  padding-top: 1.5625em;
   position: relative;
 }
 .unit-article .unit-foot nav ul {
@@ -817,7 +817,7 @@ span.signs {
 /* post & page */
 .layout-page .tag_box {
   background: url('/assets/themes/the-program/skin/1000-100-8-monochrome.png') repeat 0 0 #999999;
-  padding: 0.8125em;
+  padding: 0.78125em;
   list-style: none;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -924,7 +924,7 @@ span.signs {
   margin-bottom: 0;
 }
 .the-header .unit-head {
-  padding: 26px;
+  padding: 30px;
 }
 .the-header .unit-head .nav-global .logo {
   display: block;
@@ -938,14 +938,14 @@ span.signs {
 }
 .body .unit-body {
   border-top: 1px solid rgba(255, 255, 255, 0.6);
-  padding: 26px;
+  padding: 30px;
 }
 .the-footer {
   background-color: #1a1a1a;
   background-color: rgba(21, 25, 25, 0.8);
   color: #fafafa;
   color: rgba(250, 250, 250, 0.8);
-  padding: 26px;
+  padding: 30px;
 }
 .the-footer a:link {
   color: #c26164;
@@ -1084,7 +1084,7 @@ span.signs {
   .the-header .unit-head .nav-global .logo a {
     line-height: 18px;
     margin-bottom: 0;
-    padding-left: 52px;
+    padding-left: 60px;
   }
   .the-header img#selfportrait::before {
     content: "\f039";
@@ -1107,7 +1107,7 @@ span.signs {
   .body .unit-body {
     border-top: 0 none;
     margin-right: 450px;
-    padding: 26px 52px;
+    padding: 30px 60px;
   }
   .the-footer {
     background-color: transparent;
@@ -1116,7 +1116,7 @@ span.signs {
     top: auto;
     display: block;
     float: left;
-    padding: 0 0 0 26px;
+    padding: 0 0 0 30px;
     width: 321px;
   }
 }
@@ -1129,7 +1129,7 @@ span.signs {
     width: 19%;
   }
   .the-header .unit-head {
-    padding: 26px;
+    padding: 30px;
   }
   .the-header .unit-head .nav-global li {
     float: none;
@@ -1183,7 +1183,7 @@ span.signs {
     -moz-box-shadow: #ffffff 0px 0px 2px;
     -o-box-shadow: #ffffff 0px 0px 2px;
     margin-right: 350px;
-    padding: 26px 52px;
+    padding: 30px 60px;
     min-height: 1050px;
   }
   .the-footer {
@@ -1191,8 +1191,8 @@ span.signs {
     top: auto;
     display: block;
     float: left;
-    padding: 26px 0 0 26px;
-    width: 321px;
+    padding: 30px 0 0 30px;
+    width: 300px;
   }
   .the-footer h4 {
     font-size: 30px;
