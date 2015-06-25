@@ -34,9 +34,9 @@ My online CV tells you ..
 ### do the building
 
 - make you a **performant and modern** website
-- .. using as little modules possible
+- .. using the minimum of modules necessary
 - **override** or **patch** Drupal code where needed
-- .. and write **custom code** when necessary
+- .. and write **custom code** if no contrib exists
 - **set up** dev, stage and production environment
 - **deploy** with version control
 
