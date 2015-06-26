@@ -64,11 +64,11 @@ I can remain available on a part-time remote basis.
 ### help your Human Resources department
 - **find and attract Drupal talent** proactively
 - **train your team**:
-  - Drupal specific project management
-  - master your Drupal site
-  - .. from web editing to building Views
+  - (web)master your Drupal site
+  - .. from content editing to building Views and Webforms
   - best coding practice (front-/backend)
-  - use of development tools
+  - use of [development tools](https://lolandese.github.io/tools.html#top)
+  - [code driven development](http://dcycleproject.org/blog/68/approach-code-driven-development-drupal-8)
   - set up dev, staging and production
   - version control & deployment
 - get more out of your **remote working force**
