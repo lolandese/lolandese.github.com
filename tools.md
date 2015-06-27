@@ -67,6 +67,7 @@ Without the obvious.
 - [FileZilla](https://filezilla-project.org/)
 - [cPanel](http://cpanel.com/)
 - [ColorZilla](http://www.colorzilla.com/)
+- [MeasureIt!](https://chrome.google.com/webstore/detail/measureit/aonjhmdcgbgikgjapjckfkefpphjpgma)
 - [CopyTitle](https://chrome.google.com/webstore/detail/copy-title/apjhabidapioenkgnkgblpdbmnbapjpj)
 - [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
