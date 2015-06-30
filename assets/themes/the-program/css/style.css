@@ -1124,6 +1124,9 @@ span.signs {
 	Huge-screen layout 
 */
 @media only screen and (min-width: 1280px) {
+  #page {
+    background-attachment: fixed;
+  }
   .the-header {
     float: left;
     position: fixed;
@@ -1201,6 +1204,9 @@ span.signs {
     line-height: 42px;
     margin-top: 0;
     margin-bottom: 0;
+  }
+  .the-footer .unit-foot {
+    position: fixed;
   }
 }
 pre .c {
