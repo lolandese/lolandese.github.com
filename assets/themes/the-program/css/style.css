@@ -1016,7 +1016,9 @@ span.signs {
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/images/me.png') progid:DXImageTransform.Microsoft.BasicImage(mirror=1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    background-color: #FAFAFA;
   }
 }
 /*
@@ -1067,7 +1069,9 @@ span.signs {
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/images/me.png') progid:DXImageTransform.Microsoft.BasicImage(mirror=1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    background-color: #FAFAFA;
   }
 }
 /*
@@ -1094,7 +1098,9 @@ span.signs {
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/images/me.png') progid:DXImageTransform.Microsoft.BasicImage(mirror=1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    background-color: transparent;
   }
   .body {
     float: left;
@@ -1168,6 +1174,7 @@ span.signs {
     transform: scaleX(1);
     filter: initial;
     -ms-filter: initial;
+    background-color: transparent;
   }
   .body {
     margin-left: 19%;
