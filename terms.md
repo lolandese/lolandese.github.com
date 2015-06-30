@@ -20,7 +20,7 @@ For the US [visa regulations](http://travel.state.gov/content/visas/english/visi
 
 ## On location
 
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum of one month is required.
+I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum period of one month is required.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 
