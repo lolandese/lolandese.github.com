@@ -19,7 +19,7 @@ icon: wrench
 ## Coding
 
 - [Sublime Text 3](http://www.sublimetext.com/)
-- [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote about it](https://www.drupal.org/node/2399303))
+- [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
 - [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
 - the [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
@@ -57,7 +57,7 @@ Without the obvious.
 - [drush rr](https://www.drupal.org/project/registry_rebuild)
 - [drush sql-sync](https://www.drupal.org/project/rebuild)
 - [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
-- [git fame](https://github.com/oleander/git-fame-rb) ([I wrote about it](https://www.drupal.org/documentation/git/blame#fame))
+- [git fame](https://github.com/oleander/git-fame-rb) ([I wrote something about it](https://www.drupal.org/documentation/git/blame#fame))
 
 
 ## Other

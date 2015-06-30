@@ -1126,9 +1126,10 @@ span.signs {
 @media only screen and (min-width: 1280px) {
   .the-header {
     float: left;
-    width: 19%;
+    position: fixed;
   }
   .the-header .unit-head {
+    width: 210px;
     padding: 30px;
   }
   .the-header .unit-head .nav-global li {
@@ -1169,6 +1170,7 @@ span.signs {
     -ms-filter: initial;
   }
   .body {
+    margin-left: 19%;
     border-left: 1px solid rgba(0, 0, 0, 0.2);
     -webkit-box-shadow: #ffffff 0px 0px 2px;
     -moz-box-shadow: #ffffff 0px 0px 2px;
