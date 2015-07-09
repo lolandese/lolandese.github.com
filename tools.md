@@ -9,6 +9,8 @@ icon: wrench
 <a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
+I am a Linux guy but my strategy is to use mainstream multi-platform tools. That means that most of the below list might be of interest also to OS X and Windows users.
+
 ## Operating System & Local Dev
 
 - [Ubuntu](http://www.ubuntu.com/desktop/features) (primary OS)
@@ -18,9 +20,9 @@ icon: wrench
 
 ## Coding
 
-- [Sublime Text 3](http://www.sublimetext.com/)
+- ~~[Sublime Text 3](http://www.sublimetext.com/)~~ » [Atom](http://atom.io/)
 - [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
-- [CLI](https://en.wikipedia.org/wiki/Command-line_interface)
+- [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - the [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
 - [Compass](http://compass-style.org/)
@@ -72,6 +74,6 @@ Without the obvious.
 - [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- This site is built with [Jekyll](http://jekyllrb.com/) and [Bootstrap](http://getbootstrap.com/).
+- This site is built with [Jekyll](http://jekyllrb.com/).
 
 <a href="/work.html#top" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html#top" title="Education"><b>NEXT >></b></a>
