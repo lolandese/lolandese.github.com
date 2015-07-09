@@ -20,7 +20,7 @@ I am a Linux guy but my strategy is to use mainstream multi-platform tools. That
 
 ## Coding
 
-- ~~[Sublime Text 3](http://www.sublimetext.com/)~~ » [Atom](http://atom.io/)
+- [~~Sublime Text 3~~](http://www.sublimetext.com/) » [Atom](http://atom.io/)
 - [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
 - [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - the [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
