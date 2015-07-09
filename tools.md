@@ -9,7 +9,7 @@ icon: wrench
 <a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
-I am a Linux guy but my strategy is to use mainstream multi-platform tools. That means that most of the below list might be of interest also to OS X and Windows users.
+My strategy is to use Open Source mainstream multi-platform tools. Most of the below list is of interest also to OS X and Windows users.
 
 ## Operating System & Local Dev
 
