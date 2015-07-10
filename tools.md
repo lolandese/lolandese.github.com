@@ -22,16 +22,16 @@ icon: wrench
 ## Coding
 
 - Code editor: [<del>Sublime Text 3</del>](http://www.sublimetext.com/) » [Atom](http://atom.io/)
-- CSS code style helper: [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
 - [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - The [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - CSS preprocessors: [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
 - CSS preprocessor helper library:[Compass](http://compass-style.org/)
+- CSS code style helper: [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
 - Drupal to Backdrop patch merge: [git mergetool](http://git-scm.com/docs/git-mergetool) --tool=[meld](http://meldmerge.org/) (a diff viewer)
 - Database inspection: [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)
-- Regular expression editor: [Rubular](http://rubular.com/)
-- What vars, arrays or objects we have? [Devel](https://www.drupal.org/project/devel) e.g. [dpm(get_defined_vars());](http://blog.anselmbradford.com/2009/03/14/2-invaluable-drupal-development-tips-list-all-available-variables-and-backtrace-a-page/)
-- Where the hack is that HTML generated?: [Devel Themer](https://www.drupal.org/project/devel_themer)
+- Online regular expression editor: [Rubular](http://rubular.com/)
+- What vars, arrays or objects with what values we got during code execution? [Devel](https://www.drupal.org/project/devel) e.g. [dpm(get_defined_vars());](http://blog.anselmbradford.com/2009/03/14/2-invaluable-drupal-development-tips-list-all-available-variables-and-backtrace-a-page/)
+- Where to <del>hack</del> override that HTML output?: [Devel Themer](https://www.drupal.org/project/devel_themer)
 - [Drupal for Firebug]() (on Chrome)
 
 
@@ -49,7 +49,7 @@ icon: wrench
 
 
 ## CLI commands quick reference
-Without the obvious. Applications that extend CLI commands are needed ([Git](https://git-scm.com/), [Drush](https://github.com/drush-ops/drush), etc.).
+Without the obvious. <br />Applications that extend CLI commands are needed ([Git](https://git-scm.com/), [Drush](https://github.com/drush-ops/drush), etc.).
 
 - Reverse an applied patch: [git apply -R path/file.patch](https://www.drupal.org/patch/reverse)
 - Jump straight to a directory: [j scss](https://github.com/joelthelion/autojump)
@@ -58,9 +58,9 @@ Without the obvious. Applications that extend CLI commands are needed ([Git](htt
 - Patch helper: [drush iq-diff > example.patch](http://cgit.drupalcode.org/drush_iq/plain/README.txt?id=refs/heads/7.x-1.x)
 - Show differences between patches: [interdiff old.patch new.patch > interdiff.txt](https://www.drupal.org/documentation/git/interdiff)
 - Create release notes: [drush rn 7.x-1.0 7.x-1.1](https://www.drupal.org/project/grn)
-- What permissions do exist?: [drush perl](https://www.drupal.org/project/drush_permissions)
-- Makes moved modules being picked up: [drush rr](https://www.drupal.org/project/registry_rebuild)
-- Tasks for rebuilding your local environment: [drush sql-sync](https://www.drupal.org/project/rebuild)
+- What permissions are active in the project?: [drush perl](https://www.drupal.org/project/drush_permissions)
+- Make moved projects being recognized: [drush rr](https://www.drupal.org/project/registry_rebuild)
+- Recipe for rebuilding your project: [drush sql-sync](https://www.drupal.org/project/rebuild)
 - What patches are applied in a project?: [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
 - Create a CREDITS.txt table: [git fame](https://github.com/oleander/git-fame-rb) ([I wrote something about it](https://www.drupal.org/documentation/git/blame#fame))
 
