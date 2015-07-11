@@ -26,11 +26,11 @@ icon: wrench
 - The [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - CSS preprocessors: [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
 - CSS preprocessor helper library:[Compass](http://compass-style.org/)
-- CSS code style helper: [CSSComb](https://github.com/csscomb/csscomb.js) ([I wrote something about it](https://www.drupal.org/node/2399303))
+- CSS code style helper: [CSSComb](https://github.com/csscomb/csscomb.js) <br >([I wrote something about it](https://www.drupal.org/node/2399303))
 - Drupal to Backdrop patch merge: [git mergetool](http://git-scm.com/docs/git-mergetool) --tool=[meld](http://meldmerge.org/) (a diff viewer)
 - Database inspection: [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)
 - Online regular expression editor: [Rubular](http://rubular.com/)
-- What vars, arrays or objects with what values we got during code execution? [Devel](https://www.drupal.org/project/devel) e.g. [dpm(get_defined_vars());](http://blog.anselmbradford.com/2009/03/14/2-invaluable-drupal-development-tips-list-all-available-variables-and-backtrace-a-page/)
+- What vars, arrays or objects and values we got during code execution? [Devel](https://www.drupal.org/project/devel) e.g. [dpm(get_defined_vars());](http://blog.anselmbradford.com/2009/03/14/2-invaluable-drupal-development-tips-list-all-available-variables-and-backtrace-a-page/)
 - Where to <del>hack</del> override that HTML output?: [Devel Themer](https://www.drupal.org/project/devel_themer)
 - [Drupal for Firebug]() (on Chrome)
 
@@ -49,11 +49,11 @@ icon: wrench
 
 
 ## CLI commands quick reference
-Without the obvious. <br />Applications that extend CLI commands are needed ([Git](https://git-scm.com/), [Drush](https://github.com/drush-ops/drush), etc.).
+Without the obvious. Applications that extend CLI commands are needed ([Git](https://git-scm.com/), [Drush](https://github.com/drush-ops/drush), etc.).
 
 - Reverse an applied patch: [git apply -R path/file.patch](https://www.drupal.org/patch/reverse)
 - Jump straight to a directory: [j scss](https://github.com/joelthelion/autojump)
-- Turn a makefile into a working Drupal codebase: [drush make build-example.make ~/www/yoursite](http://www.drushcommands.com/drush-7x/make/make)
+- Turn a makefile into a working Drupal codebase: <br />[drush make build-example.make ~/www/yoursite](http://www.drushcommands.com/drush-7x/make/make)
 - Drupal coding standard compliance helper: [drush dcs](https://www.drupal.org/node/1419988)
 - Patch helper: [drush iq-diff > example.patch](http://cgit.drupalcode.org/drush_iq/plain/README.txt?id=refs/heads/7.x-1.x)
 - Show differences between patches: [interdiff old.patch new.patch > interdiff.txt](https://www.drupal.org/documentation/git/interdiff)
@@ -61,22 +61,22 @@ Without the obvious. <br />Applications that extend CLI commands are needed ([Gi
 - What permissions are active in the project?: [drush perl](https://www.drupal.org/project/drush_permissions)
 - Make moved projects being recognized: [drush rr](https://www.drupal.org/project/registry_rebuild)
 - Recipe for rebuilding your project: [drush sql-sync](https://www.drupal.org/project/rebuild)
-- What patches are applied in a project?: [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
-- Create a CREDITS.txt table: [git fame](https://github.com/oleander/git-fame-rb) ([I wrote something about it](https://www.drupal.org/documentation/git/blame#fame))
+- Document patches in a project: [drush patch-status](https://bitbucket.org/davereid/drush-patchfile)
+- Create a CREDITS.txt table: <br />[git fame](https://github.com/oleander/git-fame-rb) ([I wrote something about it](https://www.drupal.org/documentation/git/blame#fame))
 
 
 ## Other
 
-- Open Source PhotoShop alternative: [Gimp](http://www.gimp.org/)
-- Powerfull Open Source spreadsheet: [Gnumeric](http://www.gnumeric.org/)
+- Free PhotoShop alternative: [Gimp](http://www.gimp.org/)
+- Powerfull free spreadsheet: [Gnumeric](http://www.gnumeric.org/)
 - Free FTP solution: [FileZilla](https://filezilla-project.org/)
 - Web hosting control panel: [cPanel](http://cpanel.com/)
 - Advanced color picker: [ColorZilla](http://www.colorzilla.com/)
 - A simple screen ruler: [MeasureIt!](https://chrome.google.com/webstore/detail/measureit/aonjhmdcgbgikgjapjckfkefpphjpgma)
-- Helper when creating links: [CopyTitle](https://chrome.google.com/webstore/detail/copy-title/apjhabidapioenkgnkgblpdbmnbapjpj)
-- Displays Drupal debugging and SQL query information: [Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
+- Get page titles when creating links: [CopyTitle](https://chrome.google.com/webstore/detail/copy-title/apjhabidapioenkgnkgblpdbmnbapjpj)
+- Displays Drupal debugging and SQL query information: <br />[Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
 - Generate dummy text: [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
-- What font is the one that I see on that website?:  [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- This site is built with [Jekyll](http://jekyllrb.com/). Simple. Fast. No database or pesky updates.
+- What font is used on that website?:  [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- This site is built with [Jekyll](http://jekyllrb.com/). <br />Simple. Fast. No database or pesky updates.
 
 <a href="/work.html#top" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html#top" title="Education"><b>NEXT >></b></a>
