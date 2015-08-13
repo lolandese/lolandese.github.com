@@ -21,7 +21,7 @@ icon: wrench
 
 ## Coding
 
-- Code editor: [<del>Sublime Text 3</del>](http://www.sublimetext.com/) » [Atom](http://atom.io/)
+- Code editor: [Sublime Text 3](http://www.sublimetext.com/) » [Atom](http://atom.io/)
 - [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - The [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - CSS preprocessors: [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
@@ -77,6 +77,8 @@ Without the obvious. Applications that extend CLI commands are needed ([Git](htt
 - Displays Drupal debugging and SQL query information: <br />[Drupal for Chrome](https://chrome.google.com/webstore/detail/drupal-for-chrome/imlijcpfmhmifofiihbofoamohkdbblc)
 - Generate dummy text: [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam)
 - What font is used on that website?:  [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [Use the existing](/3dtest.html) instead of reinventing the wheel.
+
 - This site is built with [Jekyll](http://jekyllrb.com/). <br />Simple. Fast. No database or pesky updates.
 
 <a href="/work.html#top" title="Work"><b><< PREV</b></a> &#124; <a href="/edu.html#top" title="Education"><b>NEXT >></b></a>

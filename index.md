@@ -41,8 +41,8 @@ My online CV tells you ..
 - **deploy** with version control
 
 ### improve your existing Drupal site
-- **migrate** from Drupal 6 to Drupal 7
-- make your site **multi-language** (incl RTL)
+- **migrate** from Drupal 6 to Drupal 7 or 8
+- make your site **multi-lingual** (incl. y-axis mirror for RTL)
 - **debug** your existing site
 - .. and make it **better maintainable**
 - adapt your site for **different screen sizes**
