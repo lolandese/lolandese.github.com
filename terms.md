@@ -18,14 +18,14 @@ I have an EU passport and can work in any EU member state without hassle.
 For the US [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can stay for a period of 90 days but only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration are welcome.
 
 
-## On location
+## On-site
 
 I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum period of one month is required.
 
 I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
 
 
-## 100 % remote
+## Remote
 
 Work done from my office has a convenient rate.
 
@@ -45,7 +45,7 @@ Working remotely I ask for ..
 - weekly online progress evaluation meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
 
 
-## A combination (including after-sales)
+## An on-site / remote combination
 
 I can start full-time on location and continue part-time remote to do maintenance work after project delivery.
 
