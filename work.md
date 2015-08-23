@@ -61,6 +61,8 @@ Included was a data migration from SQL databases from a former custom PHP applic
 margin-right: 15px;"></a><a href="http://www.sinaigrandcasino.com/en"><img src="http://onsavvy.com/sites/drupal.onsavvy.com/files/imagecache/300x225/853/casino-notebook.png" style="width: 280px;"></a></div>
 A selection, in no particular order:
 
+- [www.sinaiblues.com](http://sinaiblues.sharmweb.net/).  
+In development now. Almost finished.
 - [www.ssthistlegorm.com](http://www.ssthistlegorm.com/).  
 Info about a shipwreck and the associated book.  
 Also assist on digital publishing on Amazon. **2012**
