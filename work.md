@@ -62,12 +62,12 @@ margin-right: 15px;"></a><a href="http://www.sinaigrandcasino.com/en"><img src="
 A selection, in no particular order:
 
 - [www.sinaiblues.com](http://www.sinaiblues.com/). **2015**
-- [www.ssthistlegorm.com](http://www.ssthistlegorm.com/).  
+- [www.ssthistlegorm.com](http://www.ssthistlegorm.com/). **2012**  
 Info about a shipwreck and the associated book.  
-Also assist on digital publishing on Amazon. **2012**
+Also assist on digital publishing on Amazon.
 - [geodia.pinns.net/en](http://geodia.pinns.net/en). A publisher. **2012**
-- [www.german-star.com](http://www.german-star.com/). Food retailer.  
-Also assist on Facebook page with 10.000+ Likes. **2012**
+- [www.german-star.com](http://www.german-star.com/). Food retailer. **2012**  
+Also assist on Facebook page with 10.000+ Likes.
 - [www.mousewheel.net](http://www.mousewheel.net/). A blog about Drupal. **2012**
 - [www.sinaigrandcasino.com/en](http://www.sinaigrandcasino.com/en). A casino. **2012**
 - [www.divingbikers.net](http://www.divingbikers.net/). A travel blog. **2011**
