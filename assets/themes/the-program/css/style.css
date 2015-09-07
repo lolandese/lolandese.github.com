@@ -401,8 +401,8 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: consolas, monaco, monospace;
-  font-size: 1.2em;
+  font-family: 'Special Elite', cursive;
+  font-size: 1.37142857em;
   line-height: 1.5625em;
 }
 /*
@@ -551,7 +551,7 @@ html {
   background: url('/assets/themes/the-program/skin/1000-100-8-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #fcf7f2;
+  background-color: #fcf7f2 /*!variable*/;
 }
 .body .unit-body {
   background-color: #fafafa;
@@ -580,7 +580,7 @@ pre {
   color: #f2f2f2;
   background-color: #393939;
   border: 1px solid #393939;
-  font-family: consolas, monaco, monospace;
+  font-family: 'Special Elite', cursive;
   margin-left: 0;
   margin-right: 0;
   padding: 1.5625em;
