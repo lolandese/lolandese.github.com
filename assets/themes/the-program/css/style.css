@@ -401,7 +401,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Enriqueta', serif;
   font-size: 1.37142857em;
   line-height: 1.5625em;
 }
@@ -415,7 +415,9 @@ No styleguide reference.
 h1,
 h2,
 h3,
-h4,
+h4 {
+  font-family: 'Special Elite', cursive;
+}
 h5,
 h6 {
   font-family: UbuntuMono-B, consolas, monaco, monospace;
@@ -580,7 +582,7 @@ pre {
   color: #f2f2f2;
   background-color: #393939;
   border: 1px solid #393939;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Enriqueta', serif;
   margin-left: 0;
   margin-right: 0;
   padding: 1.5625em;
@@ -593,7 +595,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: UbuntuMono-B, consolas, monaco, monospace;
+  font-family: 'Special Elite', cursive;
   margin: 0;
   text-transform: none;
 }
@@ -609,6 +611,9 @@ pre {
 .the-header .nav-global .forkme {
   position: relative;
   top: 2px;
+}
+.the-header .nav-global li {
+  font-family: 'Special Elite', cursive;
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
@@ -894,6 +899,9 @@ span.signs {
 }
 /* FOOTER
 ----------------------------------------------- */
+.the-footer {
+  font-family: 'Special Elite', cursive;
+}
 .the-footer ul.fa-ul {
   list-style: none;
   padding-left: 0;
