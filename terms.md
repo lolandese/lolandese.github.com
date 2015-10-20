@@ -57,6 +57,13 @@ Training programs are custom made and given at your office. The normal daily rat
 Software install instructions and training material are to be made available to participants prior to the course according my instructions.
 
 
+## Recruiter
+
+When working through a recruiter at a known end-client:
+- If for any reason you can not reach an agreement with the end-client or this agreement ends, you will be liable for all costs we made for travel and accommodation. Furthermore four days for travelling and arrangements have to be compensated for at the daily rate mentioned, as well the days from the start of the contract till the day after we get a request to cancel the contract.
+- Every worked hour should be validated by the end-client unconditionally.
+- All validated hours should be paid for unconditionally.
+
 ## My daily rate
 
 Most say it's competitive.
