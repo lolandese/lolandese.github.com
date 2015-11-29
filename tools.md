@@ -35,6 +35,11 @@ icon: wrench
 - [Drupal for Firebug]() (on Chrome)
 
 
+## Testing
+
+- Cross browser testing: [BrowserStack](https://www.browserstack.com/)
+
+
 ## Deployment & Data Migration
 
 - Version control system ([VCS](https://en.wikipedia.org/wiki/Revision_control)): [Git](https://git-scm.com/)
