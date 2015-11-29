@@ -25,7 +25,7 @@ icon: wrench
 - [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - The [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - CSS preprocessors: [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
-- CSS preprocessor helper library:[Compass](http://compass-style.org/)
+- CSS preprocessor helper library: [Compass](http://compass-style.org/)
 - CSS code style helper: [CSSComb](https://github.com/csscomb/csscomb.js) <br >([I wrote something about it](https://www.drupal.org/node/2399303))
 - Drupal to Backdrop patch merge: [git mergetool](http://git-scm.com/docs/git-mergetool) --tool=[meld](http://meldmerge.org/) (a diff viewer)
 - Database inspection: [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)
