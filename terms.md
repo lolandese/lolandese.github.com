@@ -11,65 +11,10 @@ icon: legal
 
 I only do Drupal related projects.
 
-My one man company is registered in Italy. I invoice my services. I also accept payrolling if required.
+Currently I am in a permanent position therefore not available for freelance assignments.
 
-I have an EU passport and can work in any EU member state without hassle.
-
-For the US [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can stay for a period of 90 days but only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration are welcome.
-
-
-## On-site
-
-I have a daily all-in rate when working on location that does include accommodation and travel expenses. To go [breakeven](https://en.wikipedia.org/wiki/Break-even) a minimum period of one month is required.
-
-I can arrange initial accommodation myself through [Airbnb](https://www.airbnb.com/users/show/7889468).
-
-
-## Remote
-
-Work done from my office has a convenient rate.
-
-It is good to know I ..
-
-- am most productive working at my own place
-- have a dedicated office
-- have no kids around
-- adapt to your time zone when necessary.
-
-Working remotely I ask for ..
-
-- the availability of technical specifications
-- the use of an issue tracker
-- a central repository to push my work to, [Git](https://git-scm.com/) or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
-- a contact person, usually the [PM](https://en.wikipedia.org/?title=Project_manager)
-- weekly online progress evaluation meetings ([VOIP](https://en.wikipedia.org/wiki/Voice_over_IP)).
-
-
-## An on-site / remote combination
-
-I can start full-time on location and continue part-time remote to do maintenance work after project delivery.
-
-
-## Training
-
-Training programs are custom made and given at your office. The normal daily rate applies plus expenses. It takes two days of preparation for each training day plus an additional two days for travelling.
-
-Software install instructions and training material are to be made available to participants prior to the course according my instructions.
-
-
-## Recruiter
-
-When working through a recruiter at a known end-client:
-- If for any reason you can not reach an agreement with the end-client or this agreement ends, you will be liable for all costs we made for travel and accommodation. Furthermore four days for travelling and arrangements have to be compensated for at the daily rate mentioned, as well the days from the start of the contract till the day after we get a request to cancel the contract.
-- Every worked hour should be validated by the end-client unconditionally.
-- All validated hours should be paid for unconditionally.
-
-## My daily rate
-
-Most say it's competitive.
-
-<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+201008951369">call me directly<br />
-<span class="signs">☎</span> +20 100 89 51 369</a> <a href="https://www.timeanddate.com/worldclock/italy/milan" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
+<a href="http://www.martin.postma.website/contact" target="_self" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+31626931039">call me directly<br />
+<span class="signs">☎</span> +31 6 26 93 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
 
 ##### Last edited: June 19, 2015
 
