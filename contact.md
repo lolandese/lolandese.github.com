@@ -17,5 +17,6 @@ icon: envelope
 </form>
 
 
-<a href="tel:+31626931039">call me directly<br />
+
+<a href="tel:+31626931039">Or call me directly<br />
 <span class="signs">☎</span> +31 6 26 93 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
