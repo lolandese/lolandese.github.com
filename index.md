@@ -25,6 +25,7 @@ My online CV tells you ..
 - study technologies that fit my profile.
 
 ## I can ..
+(CURRENTLY NOT AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
 
 ### do preliminary work for you
 
@@ -56,9 +57,6 @@ My online CV tells you ..
 - .. and make them return (**engage**)
 - couple your website with **social media**
 - build **content to embed** on FB pages
-
-### continue to maintain your project
-I can remain available on a part-time remote basis.
 
 ### help your Human Resources department
 - **find and attract Drupal talent** proactively
