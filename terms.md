@@ -13,9 +13,10 @@ I only do Drupal related projects.
 
 Currently I am in a permanent position therefore not available for freelance assignments.
 
-<a href="http://www.martin.postma.website/contact" target="_self" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+31626931039">call me directly<br />
+
+<a href="/contact" target="_self" title="My contact form"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+31626931039">call me directly<br />
 <span class="signs">☎</span> +31 6 26 93 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
 
-##### Last edited: June 19, 2015
+##### Last edited: Aprile 25, 2017
 
 <a href="/past.html#top" title="Past experiences"><b><< PREV</b></a> &#124; <a href="/#top" title="Home"><b>NEXT >></b></a>

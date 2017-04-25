@@ -11,14 +11,13 @@ tagline: Supporting tagline
 My online CV tells you ..
 
 - who I am
-- what I do / did
+- what I do
 - what I can do for you.
 
 ## I am ..
-- a freelance [Drupal](https://www.drupal.org/u/lolandese) coder
-- a travelling [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
-- EU citizen with contractor status  
-  (EU:VAT-NL:VAR-IT:P.IVA).
+- a [Drupal](https://www.drupal.org/u/lolandese) coder
+- a [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
+- EU citizen .
 
 ## I do ..
 - write Open Source code that is used by many
@@ -76,7 +75,7 @@ I can remain available on a part-time remote basis.
 
 ## Feel free to contact me
 
-<a href="http://www.mousewheel.net/contact" target="_blank" title="My contact form on mousewheel.net"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+201008951369">call me directly<br />
-<span class="signs">☎</span> +20 100 89 51 369</a> <a href="https://www.timeanddate.com/worldclock/italy/milan" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
+<a href="/contact" target="_blank" title="My contact form"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+31626931039">call me directly<br />
+<span class="signs">☎</span> +31 6 26 92 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
 
 <a href="/terms.html#top" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html#top" title="Personal info"><b>NEXT >></b></a>
