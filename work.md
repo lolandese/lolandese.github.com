@@ -28,6 +28,19 @@ Author & maintainer of:
 - [AutoFloat](https://github.com/backdrop-contrib/autofloat)
 - [Style (CSS) Settings](https://github.com/backdrop-contrib/style_settings)
 
+
+## <a name="permanent"></a>Lead Drupal Developer (2015 - present)
+
+### [HCL Technologies Limited](https://www.drupal.org/hcl-technologies-limited) ###
+
+- End-client: [www.aegon.nl](https://www.aegon.nl/)
+- Duration: **since almost 2 years**. Started October 2015.
+- Theme: Custom, based on Omega D7.
+- Deployment: git (bitbucket).
+- Role: Drupal Lead developer, both back-end and front-end.
+- Employment: Permanent. On location in **The Hague**.
+
+
 ## <a name="agency"></a>Agency work (2013 - 2015, newest to oldest)
 
 ### European Enforcers Coordination Sessions ###
