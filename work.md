@@ -7,6 +7,8 @@ icon: briefcase
 {% include JB/setup %}
 
 ## Drupal projects
+Under the nickname [lolandese](https://www.drupal.org/u/lolandese) active in the community for almost a decade.
+
 Author & maintainer of:
 
 - [Flickr](https://www.drupal.org/project/flickr) (D5, D6, D7). [Try it](http://simplytest.me/project/flickr/7.x-1.x).
