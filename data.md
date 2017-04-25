@@ -6,7 +6,7 @@ icon: user
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/ralphrozema/15516540085" title="View photo on Flickr" target="_blank"><img src="https://farm5.staticflickr.com/4086/15516540085_24d2c8449d_b.jpg"></a><br />
+<a href="https://www.flickr.com/photos/ralphrozema/15516540085" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2948/15516540085_24d2c8449d_z_d.jpg"></a><br />
 <h5><a href="https://www.flickr.com/people/ralphrozema/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 ## Personal info
