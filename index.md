@@ -74,6 +74,6 @@ My online CV tells you ..
 ## Feel free to contact me
 
 <a href="/contact" target="_blank" title="My contact form"><span class="signs">✍</span> Leave a message</a> or <a href="tel:+31626931039">call me directly<br />
-<span class="signs">☎</span> +31 6 26 92 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
+<span class="signs">☎</span> +31 6 26 93 10 39</a> <a href="https://www.timeanddate.com/worldclock/netherlands/amsterdam" target="_blank"><span class="signs">⌚</span> CET (UTC+02:00)</a>
 
 <a href="/terms.html#top" title="My Terms"><b><< PREV</b></a> &#124; <a href="/data.html#top" title="Personal info"><b>NEXT >></b></a>
