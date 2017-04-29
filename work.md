@@ -85,8 +85,8 @@ Produced around twenty websites covering a variety of clients:
 - A travel blog (sponsored by KTM).
   .. others.
 
-Most of the sites are now outdated or have ceased to exist. If needed I can provide some URLs of the sites still online.
+Most of the sites are now outdated or have ceased to exist. The last one I made (2015) as independent webshop was [www.sinaiblues.com](http://www.sinaiblues.com).
 
-Apart from Drupal 6 and 7 web development other activities consisted guidance on social media and Amazon Kindle publishing.
+Apart from Drupal 6 and 7 web development other activities consisted of guidance on social media presence and management (Facebook) and Amazon Kindle publishing.
 
 <a href="/data.html#top" title="Personal info"><b><< PREV</b></a> &#124; <a href="/tools.html#top" title="My Development Tools"><b>NEXT >></b></a>
