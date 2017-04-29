@@ -74,7 +74,7 @@ Included was a data migration from SQL databases from a former custom PHP applic
 - Employment: Contract. First half on location in **London**. Second half remote from home office.
 
 ## <a name="webshop"></a>Independent one man webshop (2010 - 2015)
-Produced around twenty websites covering a variety of clients:
+Produced around twenty websites ranging a 2-5K EUR budget covering a variety of clients:
 
 - A casino.
 - A publishing company.
@@ -83,7 +83,7 @@ Produced around twenty websites covering a variety of clients:
 - Two liveaboard companies.
 - A site representing a book.
 - A travel blog (sponsored by KTM).
-  .. others.
+-  .. others.
 
 Most of the sites are now outdated or have ceased to exist. The last one I made (2015) as independent webshop was [www.sinaiblues.com](http://www.sinaiblues.com).
 
