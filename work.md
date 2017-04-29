@@ -34,13 +34,13 @@ Author & maintainer of:
 ## <a name="permanent"></a>Lead Drupal Developer & Architect (2015 - present)
 
 ### [www.aegon.nl](https://www.aegon.nl/) ###
-Lead Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
+Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
 
 - End-client: [www.aegon.nl](https://www.aegon.nl/)
 - Duration: **since almost 2 years**. Started October 2015.
 - Theme: Custom, based on Omega D7.
 - Deployment: git (bitbucket).
-- Role: Drupal Lead developer, both back-end and front-end.
+- Role: Senior Drupal developer, both back-end and front-end.
 - Employment: Permanent. On location in **The Hague**.
 
 
@@ -62,7 +62,7 @@ Included was a data migration from SQL databases from a former custom PHP applic
 - Duration: **2 months**. Started January 2014.
 - Theme: Customized version of Rijkshuisstijl (Dutch Government Branding).
 - Deployment: Git and Features
-- Role: Lead developer, both back-end and front-end.
+- Role: Drupal developer, both back-end and front-end.
 - Employment: Payroll. On location in **Amsterdam** and The Hague.
 
 ### [www.makebuttons.co.uk/en](http://www.makebuttons.co.uk/en)
@@ -70,7 +70,7 @@ Included was a data migration from SQL databases from a former custom PHP applic
 - Duration: **4 months**. Started August 2013.
 - Theme: Custom sub theme of Zen.
 - Deployment: Git
-- Role: Lead developer, both back-end and front-end.
+- Role: Drupal developer, both back-end and front-end.
 - Employment: Contract. First half on location in **London**. Second half remote from home office.
 
 ## <a name="webshop"></a>Independent one man webshop (2010 - 2015)
