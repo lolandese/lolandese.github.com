@@ -74,19 +74,22 @@ Included was a data migration from SQL databases from a former custom PHP applic
 - Employment: Contract. First half on location in **London**. Second half remote from home office.
 
 ## <a name="webshop"></a>Independent one man webshop (2010 - 2015)
-Produced around twenty websites ranging a 2-5K EUR budget covering a variety of clients:
-
-- A casino.
-- A publishing company.
-- Two food retailers.
-- Several scuba diving centers located at the Red Sea.
-- Two liveaboard companies.
-- A site representing a book.
-- A travel blog (sponsored by KTM).
--  .. others.
+Produced around twenty websites ranging a € 2K to 5K  budget covering a variety of clients:
 
 Most of the sites are now outdated or have ceased to exist. The last one I made (2015) as independent webshop was [www.sinaiblues.com](http://www.sinaiblues.com).
 
+Some others are still partially accessible through [web.archive.org](http://web.archive.org):
+- A site [representing a book](http://ssthistlegorm.com/en). (2014)
+- A [publishing company](http://web.archive.org/web/20141008164549/http://www.geodia.net/en). (2012)
+- Two [food retailers](http://web.archive.org/web/20160218064313/http://www.cookiesnpies.com:80/). (2013)
+- A [casino](http://web.archive.org/web/20150716072347/http://www.sinaigrandcasino.com:80/en). (2012)
+- Several [scuba diving centers](http://www.sinaiblues.com) located at the Red Sea. (2011-2015)
+- Two [liveaboard companies](http://web.archive.org/web/20110130053958/seaqueenfleet.com). (2010)
+- A travel blog (sponsored by KTM). (2011)
+-  .. others.
+
 Apart from Drupal 6 and 7 web development other activities consisted of guidance on social media presence and management (Facebook) and Amazon Kindle publishing.
+
+Obviously I am more focussed on architecture and Drupal development now but the above gives an impression of the evolution I went through in my early years. This experience gives me a better understanding of other skills like design and user experience.
 
 <a href="/data.html#top" title="Personal info"><b><< PREV</b></a> &#124; <a href="/tools.html#top" title="My Development Tools"><b>NEXT >></b></a>
