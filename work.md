@@ -31,7 +31,7 @@ Author & maintainer of:
 - [Style (CSS) Settings](https://github.com/backdrop-contrib/style_settings)
 
 
-## <a name="permanent"></a>Lead Drupal Developer & Architect (2015 - present)
+## <a name="permanent"></a>Senior Drupal Developer & Architect (2015 - present, permanent)
 
 ### [www.aegon.nl](https://www.aegon.nl/) ###
 Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
@@ -44,7 +44,7 @@ Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/finan
 - Employment: Permanent. On location in **The Hague**.
 
 
-## <a name="agency"></a>Agency work (2013 - 2015, newest to oldest)
+## <a name="agency"></a>Agency work (2013 - 2015, newest to oldest, freelance)
 
 ### European Enforcers Coordination Sessions ###
 This web application is not public. It is a database/moderation application for the European Securities & Markets Authority (ESMA). It aids in the information exchange about national financial regulations between the EU member states.
