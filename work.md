@@ -20,7 +20,7 @@ Author & maintainer of:
 - [Multi-currency pricelist](http://drupal.org/project/multi_currency_pricelist) (D7). [Try it](http://simplytest.me/project/multi_currency_pricelist/7.x-1.x?add[0]=features_extra).
 
 Maintainer of:
-- [TableField](https://www.drupal.org/project/tablefield). A rewrite of D7.
+- [TableField](https://www.drupal.org/project/tablefield). A rewrite of D7 (the 7.x-3.x branch).
 
 
 ## Backdrop projects
