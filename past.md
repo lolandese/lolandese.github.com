@@ -34,4 +34,4 @@ MSDT, TecRec, SC and CC rebreather trained
 **Quality Manager at ABB Service BV, Rotterdam**
 1990 – 1993 (3 years)
 
-<a href="/edu.html#top" title="Education"><b><< PREV</b></a> &#124; <a href="/terms.html#top" title="My terms"><b>NEXT >></b></a>
+<a href="/edu.html#top" title="Education"><b><< PREV</b></a> &#124; <a href="/#top" title="Home"><b>NEXT >></b></a>
