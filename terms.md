@@ -9,6 +9,8 @@ icon: legal
 <a href="https://www.flickr.com/photos/24oranges/14417293308" title="View photo on Flickr" target="_blank"><img src="https://farm4.staticflickr.com/3913/14417293308_c1b42b26b4_b.jpg" style="width: 800px;"></a><br />
 <h5><a href="https://www.flickr.com/people/24oranges/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
+(CURRENTLY **_NOT_** AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
+
 I only do Drupal related projects.
 
 I invoice my services but also accept payrolling if required.
