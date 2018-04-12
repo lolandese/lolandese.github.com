@@ -25,7 +25,7 @@ My online CV tells you ..
 - study technologies that fit my profile.
 
 ## I can ..
-(CURRENTLY **NOT** AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
+(CURRENTLY **_NOT_** AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
 
 ### do preliminary work for you
 
