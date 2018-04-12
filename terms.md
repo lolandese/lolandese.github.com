@@ -15,7 +15,7 @@ I invoice my services but also accept payrolling if required.
 
 I have an EU passport and can work in any EU member state without hassle.
 
-For the US [visa regulations](http://travel.state.gov/content/visas/english/visit/visa-waiver-program.html) apply. I can stay for a period of 90 days but only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration are welcome.
+For the US [visa regulations](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) apply. I can stay for a period of 90 days but only be compensated for expenses when on location. Proposals that intend to continue with remote collaboration are welcome.
 
 
 ## On-site
