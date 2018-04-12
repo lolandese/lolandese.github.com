@@ -21,7 +21,6 @@ My online CV tells you ..
 
 ## I do ..
 - write Open Source code that is used by many
-- work for end-clients and agencies
 - study technologies that fit my profile.
 
 ## I did ..
