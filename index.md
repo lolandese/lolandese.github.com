@@ -28,7 +28,7 @@ My online CV tells you ..
 
 ### preliminary work
 
-- write project **requirements** and **specifications**
+- writing project **requirements** and **specifications**
 
 ### site building
 
