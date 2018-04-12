@@ -26,35 +26,35 @@ My online CV tells you ..
 ## I did ..
 (NOTA BENE: I AM CURRENTLY **_NOT_** AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
 
-### do preliminary work
+### preliminary work
 
 - write project **requirements** and **specifications**
 
-### do the building
+### site building
 
-- make a **performant and modern** website
+- making **performant and modern** websites
 - .. using the minimum of modules necessary
-- **override** or **patch** Drupal code where needed
-- .. and write **custom code** if no contrib exists
-- **set up** dev, stage and production environment
-- **deploy** with version control
+- **overriding** or **patching** Drupal code where needed
+- .. and writing **custom code** if no contrib existed
+- **setting up** dev, stage and production environment
+- **deploying** with version control
 
 ### improve existing Drupal sites
-- **migrate** from Drupal 6 to Drupal 7 or 8
-- make sites **multi-lingual** (incl. y-axis mirror for RTL)
-- **debug** existing sites
-- .. and make sites better maintainable**
-- adapt sites for **different screen sizes**
+- **migrating** from Drupal 6 to Drupal 7 or 8
+- making sites **multi-lingual** (incl. y-axis mirror for RTL)
+- **debugging** existing sites
+- .. and making sites better maintainable**
+- adapting sites for **different screen sizes**
 - .. and for **touch devices**
-- enhance **image presentation** on sites
-- **improve a site's UX**, specifically:
+- enhancing **image presentation** on sites
+- **improving a site's UX**, specifically:
   - structure
   - readability
   - navigation
   - user interaction
-- get **more visitors** to a site
+- getting **more visitors** to a site
 - .. and make them return (**engage**)
-- couple a website with **social media**
+- coupling a website with **social media**
 
 ## Feel free to contact me for any questions
 
