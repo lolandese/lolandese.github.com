@@ -17,7 +17,7 @@ My online CV tells you ..
 ## I am ..
 - a [Drupal](https://www.drupal.org/u/lolandese) coder
 - a [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
-- EU citizen .
+- EU citizen.
 
 ## I do ..
 - write Open Source code that is used by many
@@ -25,7 +25,7 @@ My online CV tells you ..
 - study technologies that fit my profile.
 
 ## I can ..
-(CURRENTLY NOT AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
+(CURRENTLY AVAILABLE FOR FREELANCE ASSIGNMENTS !!)
 
 ### do preliminary work for you
 
