@@ -6,12 +6,12 @@ icon: user
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/ralphrozema/15516540085" title="View photo on Flickr" target="_blank"><img src="https://farm3.staticflickr.com/2948/15516540085_24d2c8449d_z_d.jpg"></a><br />
-<h5><a href="https://www.flickr.com/people/ralphrozema/" title="View user on Flickr" target="_blank">Credit</a></h5>
+<a href="https://www.flickr.com/photos/132644069@N03/16565567243" title="View photo on Flickr" target="_blank"><img src="https://farm8.staticflickr.com/7714/16565567243_31d6c37cfd_z_d.jpg"></a><br />
+<h5><a href="https://www.flickr.com/photos/132644069@N03/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 ## Personal info
 - Martin Postma
-- Resident in  The Hague, the Netherlands
+- Resident in  Veenendaal, the Netherlands
 - Nationality: Netherlands (NL)
 
 
