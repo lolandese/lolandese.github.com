@@ -6,8 +6,8 @@ icon: wrench
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/bull3t/3272158919" title="View photo on Flickr" target="_blank"><img src="https://farm4.static.flickr.com/3439/3272158919_0a26996ca2.jpg" style="width: 800px;"></a><br />
-<h5><a href="https://www.flickr.com/people/bull3t/" title="View user on Flickr" target="_blank">Credit</a></h5>
+<a href="https://www.flickr.com/photos/204studios/5938572669" title="View photo on Flickr" target="_blank"><img src="https://c1.staticflickr.com/7/6006/5938572669_be64ec1f73_b.jpg" style="width: 800px;"></a><br />
+<h5><a href="https://www.flickr.com/people/204studios/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 - I use mostly mainstream Open Source multi-platform tools.
 - Most of the software in the list is also of interest to OS X and Windows users.
