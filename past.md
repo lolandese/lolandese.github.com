@@ -10,13 +10,13 @@ icon: clock-o
 <h5><a href="https://www.flickr.com/people/zunami/" title="View user on Flickr" target="_blank">Credit</a></h5> 
 
 **[Lead Drupal Developer in permanent position](/work.html#permanent)**
-2015 - present (since 2 years)
+2015 - present (since 4 years)
 
 **[Agency work as freelancer](/work.html#agency)**
-2013 - 2015 (2 years)
+2013 - 2018 (5 years)
 
 **[Independent one man webshop](/work.html#webshop)**
-2010 - 2015 (5 years)
+2010 - 2018 (8 years)
 
 **PADI Instructor at the Savoy, Red Sea**
 MSDT, TecRec, SC and CC rebreather trained
