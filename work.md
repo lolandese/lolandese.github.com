@@ -31,7 +31,7 @@ Author & maintainer of:
 - [Style (CSS) Settings](https://github.com/backdrop-contrib/style_settings)
 
 
-## <a name="permannent"></a>Senior Drupal Developer & Architect (2015 - present)
+## <a name="permanent"></a>Senior Drupal Developer & Architect (2015 - present)
 
 ### Cognizant ###
 Senior Drupal Developer & Architect for Cognizant.
@@ -46,14 +46,24 @@ Senior Drupal Developer & Architect for Cognizant.
 Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
 
 - End-client: [www.aegon.nl](https://www.aegon.nl/)
-- Duration: **3 years**. Started October 2015.
+- Duration: **3 years**. Started October 2015. Ended February 2018.
 - Theme: Custom, based on Omega D7.
 - Deployment: git (bitbucket).
 - Role: Senior Drupal developer, both back-end and front-end.
 - Employment: Permanent. On location in **The Hague**.
 
 
-## <a name="agency"></a>Agency work (2013 - 2015, newest to oldest, freelance)
+## <a name="agency"></a>Agency work (2013 - 2018, newest to oldest, freelance)
+
+### Bright Side of Life ###
+This web application is not public as it is available only for the subscribed libraries. It consists of a database that can be consulted by library members that provides published media articles related to a book, mainly reviews.
+
+- End-client: [Biblion](https://www.nbdbiblion.nl)
+- Duration: **3 months**. Started May 2018.
+- Theme: Custom, based on Classy D8.
+- Deployment: GitLab.
+- Role: Lead developer, both back-end and front-end.
+- Employment: Contract. On location in **Zoetermeer (NL)** and **Breukelen (NL)**.
 
 ### European Enforcers Coordination Sessions ###
 This web application is not public. It is a database/moderation application for the European Securities & Markets Authority (ESMA). It aids in the information exchange about national financial regulations between the EU member states.
@@ -82,7 +92,7 @@ Included was a data migration from SQL databases from a former custom PHP applic
 - Role: Drupal developer, both back-end and front-end.
 - Employment: Contract. First half on location in **London**. Second half remote from home office.
 
-## <a name="webshop"></a>Independent one man webshop (2010 - 2015)
+## <a name="webshop"></a>Independent one man webshop (2010 - present)
 Produced around twenty websites ranging a € 2K to 5K  budget covering a variety of clients:
 
 Most of the sites are now outdated or have ceased to exist. The last one I made (2015) as independent webshop was [www.sinaiblues.com](http://www.sinaiblues.com).
