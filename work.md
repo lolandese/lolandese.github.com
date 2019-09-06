@@ -58,7 +58,7 @@ Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/finan
 ### Bright Side of Life ###
 This web application is not public as it is available only for the subscribed libraries. It consists of a database that can be consulted by library members that provides published media articles related to a book, mainly reviews.
 
-- End-client: [Biblion](https://www.nbdbiblion.nl)
+- End-client: [NBD Biblion](https://www.nbdbiblion.nl)
 - Duration: **3 months**. Started May 2018.
 - Theme: Custom, based on Classy D8.
 - Deployment: GitLab.
