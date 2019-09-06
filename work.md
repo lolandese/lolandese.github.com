@@ -36,7 +36,7 @@ Author & maintainer of:
 ### Cognizant ###
 Senior Drupal Developer & Architect for Cognizant.
 
-- End-client: Bayer
+- End-client: Bayer, involved in all their Drupal 8 sites worldwide
 - Duration: **since 1 year**. Started September 2018.
 - Deployment: git (GitLab self-hosted enterprise version).
 - Role: Senior Drupal developer, mainly back-end
