@@ -46,7 +46,7 @@ Senior Drupal Developer & Architect for Cognizant.
 Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
 
 - End-client: [www.aegon.nl](https://www.aegon.nl/)
-- Duration: **3 years**. Started October 2015. Ended February 2018.
+- Duration: **2+ years**. Started October 2015. Ended February 2018.
 - Theme: Custom, based on Omega D7.
 - Deployment: git (bitbucket).
 - Role: Senior Drupal developer, both back-end and front-end.
