@@ -31,13 +31,25 @@ Author & maintainer of:
 - [Style (CSS) Settings](https://github.com/backdrop-contrib/style_settings)
 
 
-## <a name="permanent"></a>Senior Drupal Developer & Architect (2015 - present, permanent)
+## <a name="cognizant"></a>Senior Drupal Developer & Architect (2018 - present)
+
+### Cognizant ###
+Senior Drupal Developer & Architect for Cognizant.
+
+- End-client: Bayer
+- Duration: **since 1 year**. Started September 2018.
+- Deployment: git (bitbucket).
+- Role: Senior Drupal developer, mainly back-end
+- Employment: Permanent. Several locations.
+
+
+## <a name="aegon"></a>Senior Drupal Developer & Architect (2015 - 2018)
 
 ### [www.aegon.nl](https://www.aegon.nl/) ###
 Senior Drupal Developer & Architect for [cXstudio](https://www.hcltech.com/financial-services/cxstudio), a joint venture between [Aegon](https://www.aegon.nl/) and [HCL](https://www.drupal.org/hcl-technologies-limited). Established close to Aegon’s headquarters in The Hague, the 50-seat cXstudio fosters co-innovation between both companies.
 
 - End-client: [www.aegon.nl](https://www.aegon.nl/)
-- Duration: **since almost 2 years**. Started October 2015.
+- Duration: **3 years**. Started October 2015.
 - Theme: Custom, based on Omega D7.
 - Deployment: git (bitbucket).
 - Role: Senior Drupal developer, both back-end and front-end.
