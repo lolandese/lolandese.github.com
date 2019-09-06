@@ -15,13 +15,13 @@ icon: wrench
 ## Operating System & Local Dev
 
 - [Ubuntu](http://www.ubuntu.com/desktop/features) (primary OS)
-- [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)). [How to setup?](http://rjtownsend.com/blog/how-setup-local-development-environment-drupal-7-ubuntu-1204-apache-mysql-php-svn-git-eclipse) (a bit outdated but still useful)
+- [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)). [How to setup?](https://www.drupal.org/node/3015847) (written by me)
 - [VirtualBox](https://www.virtualbox.org/) (e.g. to run [CentOS](https://www.centos.org/))
 
 
 ## Coding
 
-- Code editor: [Sublime Text 3](http://www.sublimetext.com/) » [Atom](http://atom.io/)
+- Code editor: [Sublime Text 3](http://www.sublimetext.com/) » [Atom](https://atom.io) » [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - The [browser inspector](https://thewc.co/articles/view/web-inspector-tutorial) ([Mozilla 3D View](https://developer.mozilla.org/en-US/docs/Tools/3D_View))
 - CSS preprocessors: [Sass](http://sass-lang.com/) (or [Less](http://lesscss.org/))
