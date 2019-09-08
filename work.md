@@ -44,6 +44,12 @@ Author of:
 - [Custom Filter - Anchorize subtitles](https://www.drupal.org/node/210555#anchorize-subtitles)
 
 
+## Gists (no forks)
+Author of:
+- [Convert a Drupal YAML configuration file to an array as a working PHP code snippet to write its values to the database. This is code to generate code](https://gist.github.com/lolandese/eb0e2392264aca7d736dd712e432410e)
+- [Drupal languages as JSON](https://gist.github.com/lolandese/f2f3b48c70e84ecf64cef1fcbcb92248)
+
+
 ## Backdrop projects
 Author & maintainer of (in alphabetic order):
 
