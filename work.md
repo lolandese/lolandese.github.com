@@ -31,6 +31,19 @@ Maintainer of (in alphabetic order):
 - [TableField](https://www.drupal.org/project/tablefield). A rewrite of D7 (the 7.x-3.x branch).
 
 
+## Drupal documentation
+Author of:
+- [Set up a local development Drupal site on the latest Ubuntu and more](https://www.drupal.org/node/3015847)
+- [Open Ownership Pledge](https://www.drupal.org/node/2938367)
+- [Contributed versus custom code and everything in between](https://www.drupal.org/node/2920818)
+- [Using simplytest.me as a project demo](https://www.drupal.org/node/2044361)
+- [CSScomb settings for Drupal (CSS formatting and sort tool)](https://www.drupal.org/node/2399303)
+- [Examples for database update scripts using hook_update_N](https://www.drupal.org/node/2854170)
+- [Using git blame](https://www.drupal.org/node/1893952)
+- [CodeSniffer Command Line Usage](https://www.drupal.org/node/1587138)
+- [Custom Filter | Anchorize subtitles](https://www.drupal.org/node/210555#anchorize-subtitles)
+
+
 ## Backdrop projects
 Author & maintainer of (in alphabetic order):
 
