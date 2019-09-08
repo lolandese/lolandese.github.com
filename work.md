@@ -7,17 +7,20 @@ icon: briefcase
 {% include JB/setup %}
 
 ## Drupal projects
-Under the nickname [lolandese](https://www.drupal.org/u/lolandese) active in the community for almost a decade.
+Under the nickname [lolandese](https://www.drupal.org/u/lolandese) active in the community for over a decade.
 
-Author & maintainer of:
+Author & maintainer of (in alphabetic order):
 
-- [Flickr](https://www.drupal.org/project/flickr) (D5, D6, D7). [Try it](http://simplytest.me/project/flickr/7.x-1.x).
 - [AutoFloat](https://www.drupal.org/project/autofloat) (D6, D7, D8). [Try it](http://simplytest.me/project/autofloat/7.x-2.x).
-- [Style (CSS) Settings](http://drupal.org/project/style_settings) (D6, D7). [Try it](http://simplytest.me/project/style_settings/7.x-1.x).
-- [UpTime widget](http://drupal.org/project/uptime_widget) (D6, D7, D8). [Try it](http://simplytest.me/project/uptime_widget/7.x-1.x).
+- [Flickr](https://www.drupal.org/project/flickr) (D5, D6, D7). [Try it](http://simplytest.me/project/flickr/7.x-1.x).
+- [Force 404](https://www.drupal.org/project/force404).
+- [GIT Info Report](https://www.drupal.org/project/gitinfo).
+- [Limit Domain Access By Role](https://www.drupal.org/project/limit_domain_access_by_role).
 - [PageRank widget](http://drupal.org/project/pagerank_widget) (D6, D7, D8). [Try it](http://simplytest.me/project/pagerank_widget/7.x-1.x).
 - [Permalink Block](http://drupal.org/project/permalink_block) (D6, D7). [Try it](http://simplytest.me/project/permalink_block/7.x-1.x?add[0]=popup&patch[0]=https%3A//www.drupal.org/files/issues/demo-2043135-10.patch).
-- [Multi-currency pricelist](http://drupal.org/project/multi_currency_pricelist) (D7). [Try it](http://simplytest.me/project/multi_currency_pricelist/7.x-1.x?add[0]=features_extra).
+- [Style (CSS) Settings](http://drupal.org/project/style_settings) (D6, D7). [Try it](http://simplytest.me/project/style_settings/7.x-1.x).
+- [Themeless](https://www.drupal.org/project/themeless).
+- [UpTime widget](http://drupal.org/project/uptime_widget) (D6, D7, D8). [Try it](http://simplytest.me/project/uptime_widget/7.x-1.x).
 
 Maintainer of:
 - [TableField](https://www.drupal.org/project/tablefield). A rewrite of D7 (the 7.x-3.x branch).
