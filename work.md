@@ -41,7 +41,7 @@ Author of:
 - [Examples for database update scripts using hook_update_N](https://www.drupal.org/node/2854170)
 - [Using git blame](https://www.drupal.org/node/1893952)
 - [CodeSniffer Command Line Usage](https://www.drupal.org/node/1587138)
-- [Custom Filter | Anchorize subtitles](https://www.drupal.org/node/210555#anchorize-subtitles)
+- [Custom Filter - Anchorize subtitles](https://www.drupal.org/node/210555#anchorize-subtitles)
 
 
 ## Backdrop projects
