@@ -22,15 +22,20 @@ Author & maintainer of (in alphabetic order):
 - [Themeless](https://www.drupal.org/project/themeless).
 - [UpTime widget](http://drupal.org/project/uptime_widget) (D6, D7, D8). [Try it](http://simplytest.me/project/uptime_widget/7.x-1.x).
 
-Maintainer of:
+Note: I passed ownership of some modules to others as part of the [Open Ownership Pledge](https://www.drupal.org/node/2938367) (started by me).
+
+Maintainer of (in alphabetic order):
+- [Colorfield](https://www.drupal.org/project/colorfield).
+- [Custom username validation](https://www.drupal.org/project/custom_username_validation).
+- [Drush Permissions](https://www.drupal.org/project/drush_permissions).
 - [TableField](https://www.drupal.org/project/tablefield). A rewrite of D7 (the 7.x-3.x branch).
 
 
 ## Backdrop projects
-Author & maintainer of:
+Author & maintainer of (in alphabetic order):
 
-- [Flickr](https://github.com/backdrop-contrib/flickr)
 - [AutoFloat](https://github.com/backdrop-contrib/autofloat)
+- [Flickr](https://github.com/backdrop-contrib/flickr)
 - [Style (CSS) Settings](https://github.com/backdrop-contrib/style_settings)
 
 
