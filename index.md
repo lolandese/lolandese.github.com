@@ -17,8 +17,8 @@ My online CV tells you ..
 ## I am ..
 - a [Drupal](https://www.drupal.org/u/lolandese) coder
 - a [polyglot](http://dictionary.reference.com/browse/polyglot) [knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
-- EU citizen.
-- Aka "Martijn Postma" or "Martinus Postma".
+- EU citizen
+- A.k.a. "Martijn Postma" or "Martinus Postma".
 
 ## I do ..
 - write Open Source code that is used by many
