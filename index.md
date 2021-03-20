@@ -41,7 +41,7 @@ My online CV tells you ..
 - **deploying** with version control
 
 ### improve existing Drupal sites
-- **migrating** from Drupal 6 to Drupal 7 or 8
+- **migrating** from Drupal 6 or 7 to Drupal 8 or 9
 - making sites **multi-lingual** (incl. y-axis mirror for RTL)
 - **debugging** existing sites
 - .. and making sites better maintainable**
