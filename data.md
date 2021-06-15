@@ -6,12 +6,12 @@ icon: user
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/188320765@N04/50164061236" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/65535/50164061236_d44b0e181b_c_d.jpg"></a><br />
-<h5><a href="https://www.flickr.com/photos/188320765@N04/" title="View user on Flickr" target="_blank">Credit</a></h5>
+<a href="https://www.flickr.com/photos/martinpostma/51249499291" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/65535/51249499291_577d1ec4a3_c_d.jpg"></a><br />
+<h5><a href="https://www.flickr.com/photos/martinpostma/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 ## Personal info
 - Martin Postma
-- Resident in Cologne, Germany
+- Resident in Val Pellice, Piedmont, Italy
 - Nationality: Netherlands (NL)
 
 
