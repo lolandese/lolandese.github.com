@@ -20,6 +20,7 @@ As a special offer only for returning guests, when you book at least two nights,
 5. Communicate your arrival one day in advance with a rough estimate of your arrival. **Remember that all communication takes place on WhatsApp. From the first to the last message**.
 
 ROOM FOR ONE GUEST ONLY
+
 For returning guests only (recurring guests), I also have a guest room in my home. It can be used for a third guest or if you are returning alone. In this case, you share the rest of the house with me (bathroom, kitchen, living room). The price is EURO 25 per day without extra charges, regardless of the season. Sometimes I have friends or family members here staying in the guest room, therefore the availability has to be checked separately.
 
 AVAILABILITY
