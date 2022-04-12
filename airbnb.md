@@ -2,7 +2,7 @@
 layout: page
 title: Special offer for returning guest that were awesome
 tagline: Supporting tagline
-icon: wrench
+icon: airbnb
 ---
 {% include JB/setup %}
 
