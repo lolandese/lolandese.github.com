@@ -8,7 +8,7 @@ icon: airbnb
 
 Thanks for your fabulous review on Airbnb. It is really appreciated.
 
-As a special offer only for returning guests, when you book at least two nights, you do not pay the cleaning fee of €27. To take advantage of that, follow the below instructions.
+As a special offer only for returning guests, when you book **at least two nights**, you do not pay the cleaning fee of €27. To take advantage of that, follow the below instructions.
 
 1. Check the daily price for the desired period (varies between high and low season) and availability on the Airbnb page. You can remove the cleaning fee from the total price. **DO NOT proceed with the booking**.
 2. Send me **a WhatsApp message**, minimum containing:
