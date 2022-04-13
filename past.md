@@ -2,7 +2,7 @@
 layout: page
 title: Past experiences
 tagline: Supporting tagline
-icon: clock-o
+icon: clock
 ---
 {% include JB/setup %}
 
