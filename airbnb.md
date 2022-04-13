@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Thanks for your fabulous review on Airbnb. It is really appreciated.
+<img id="selfportrait" src="/assets/images/Martinus-reduced.jpg"> Thanks for your fabulous review on Airbnb. It is really appreciated.
 
 As a special offer only for returning guests (or their friends), when you book **at least two nights**, you do not pay the cleaning fee of €27. To take advantage of that, **follow the below instructions**.
 
