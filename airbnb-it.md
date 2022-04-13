@@ -2,7 +2,6 @@
 layout: page
 title: Offerta speciale per gli ospiti che ritornano
 tagline: Supporting tagline
-icon: airbnb
 ---
 {% include JB/setup %}
 
