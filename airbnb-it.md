@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Grazie per la tua favolosa recensione su Airbnb. È davvero apprezzato.
+<img id="selfportrait" src="/assets/images/Martinus-reduced.jpg"> Grazie per la tua favolosa recensione su Airbnb. È davvero apprezzato.
 
 Come offerta speciale solo per ospiti abituali (o i loro amici), prenotando **almeno due notti**, non paghi la tassa di pulizia di € 27. Per trarne vantaggio, **segui le istruzioni seguenti**.
 
