@@ -8,7 +8,7 @@ icon: airbnb
 
 Thanks for your fabulous review on Airbnb. It is really appreciated.
 
-As a special offer only for returning guests, when you book **at least two nights**, you do not pay the cleaning fee of €27. To take advantage of that, follow the below instructions.
+As a special offer only for returning guests (or their friends), when you book **at least two nights**, you do not pay the cleaning fee of €27. To take advantage of that, **follow the below instructions**.
 
 1. Check the daily price for the desired period (varies between high and low season) and availability on the Airbnb page. You can remove the cleaning fee from the total price. **DO NOT proceed with the booking**.
 2. Send me **a WhatsApp message**, minimum containing:
@@ -17,7 +17,7 @@ As a special offer only for returning guests, when you book **at least two night
    - The total amount according to you.
 3. For my part, I block the desired period on the calendar and send you a PayPal link with the corresponding amount on WhatsApp.
 4. Pay, send me a message that you did pay and receive a confirmation when I have received the payment.
-5. Communicate your arrival one day in advance with a rough estimate of your arrival. **Remember that all communication takes place on WhatsApp. From the first to the last message**.
+5. Communicate your arrival one day in advance with a rough estimate of the time of your arrival. **Remember that all communication takes place on WhatsApp. From the first to the last message**.
 
 ROOM FOR ONE GUEST ONLY
 
