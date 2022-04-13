@@ -23,5 +23,5 @@ ROOM FOR ONE GUEST ONLY
 
 For returning guests only (recurring guests), I also have a guest room in my home. It can be used for a third guest or if you are returning alone. In this case, you share the rest of the house with me (bathroom, kitchen, living room). The price is EURO 25 per day without extra charges, regardless of the season. Sometimes I have friends or family members here staying in the guest room, therefore the availability has to be checked separately.
 
-AVAILABILITY
+AVAILABILITY OF THE CHALET
 <div id="smoobuApartment1166569en" class="calendarWidget"> <div class="calendarContent" data-load-calendar-url="https://login.smoobu.com/en/cockpit/widget/single-calendar/1166569" data-verification="f2403a4604bb6df056052e3b5d1849438bdcb5d11c9c79f939fdd2dff60c9b22" data-baseUrl="https://login.smoobu.com" data-disable-css="false" ></div> <script type="text/javascript" src="https://login.smoobu.com/js/Apartment/CalendarWidget.js"></script></div>
