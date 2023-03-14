@@ -13,6 +13,7 @@ icon: envelope
 <form
   action="https://formspree.io/f/mknazqko"
   method="POST"
+  style="max-width:95%"
 >
   <label>
     Your email:
