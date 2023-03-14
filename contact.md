@@ -11,7 +11,7 @@ icon: envelope
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://formspree.io/f/martinuspostma@gmail.com"
+  action="https://formspree.io/f/mknazqko"
   method="POST"
 >
   <label>
