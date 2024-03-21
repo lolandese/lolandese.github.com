@@ -23,5 +23,6 @@ ROOM FOR ONE GUEST ONLY
 For returning guests only (recurring guests), I also have a guest room in my home. It can be used for a third guest or if you are returning alone. In this case, you share the rest of the house with me (bathroom, kitchen, living room). The price is EURO 25 per day without extra charges, regardless of the season. Sometimes I have friends or family members here staying in the guest room, therefore the availability has to be checked separately.
 
 CHALET AVAILABILITY
+
 Automatically synchronized with the calendars from other hosting platforms.
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FAmsterdam&bgcolor=%23ffffff&title=Chalet%20reservations&showTz=0&showTabs=0&showPrint=0&showTitle=0&showCalendars=0&src=bmtrbGk1MWtyazFjbm9ob2VvczFjNnY4bWJwcmZwZm9AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OGp0bXUzcWNodGs3dWRxZ2d1c3JpajJ2a2lhcmtubGJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB&color=%239E69AF" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
