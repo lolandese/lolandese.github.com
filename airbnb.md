@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Special offer for returning guest that were awesome
+title: Special offer for returning guests that were awesome
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<img id="selfportrait" src="/assets/images/Martinus-reduced.jpg"> Thanks for your fabulous review on Airbnb. It is really appreciated.
+<img id="selfportrait" src="/assets/images/Martinus-reduced.jpg"> Thanks for your fabulous review on Airbnb. It is appreciated.
 
 As a special offer only for returning guests (or their friends), when you book **at least two nights**, you do not pay the cleaning fee of €27. To take advantage of that, **follow the below instructions**.
 
 1. Check the daily price for the desired period (varies between high and low season) and availability on the Airbnb page. You can remove the cleaning fee from the total price. **DO NOT proceed with the booking**.
 2. Send me **a WhatsApp message**, minimum containing:
-   - The number of guests (max. 3, see note below) per chalet and / or guest room.
+   - The number of guests (max. 3, see note below) per chalet and/or guest room.
    - The days of check-in and check-out.
    - The total amount according to you.
 3. For my part, I block the desired period on the calendar and send you a PayPal link with the corresponding amount on WhatsApp.
@@ -22,5 +22,4 @@ ROOM FOR ONE GUEST ONLY
 
 For returning guests only (recurring guests), I also have a guest room in my home. It can be used for a third guest or if you are returning alone. In this case, you share the rest of the house with me (bathroom, kitchen, living room). The price is EURO 25 per day without extra charges, regardless of the season. Sometimes I have friends or family members here staying in the guest room, therefore the availability has to be checked separately.
 
-AVAILABILITY OF THE CHALET
-<div id="smoobuApartment1166569en" class="calendarWidget"> <div class="calendarContent" data-load-calendar-url="https://login.smoobu.com/en/cockpit/widget/single-calendar/1166569" data-verification="f2403a4604bb6df056052e3b5d1849438bdcb5d11c9c79f939fdd2dff60c9b22" data-baseUrl="https://login.smoobu.com" data-disable-css="false" ></div> <script type="text/javascript" src="https://login.smoobu.com/js/Apartment/CalendarWidget.js"></script></div>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FAmsterdam&bgcolor=%23ffffff&title=Chalet%20reservations&showTz=0&showTabs=0&showPrint=0&src=NTA3ZTkyNTVlOGQ4ZGU0ZDdlMTlmMTIxODkzMmE1MDZkMDE5M2UwOWQ2NDFjZWZhZDE4MmMzNThiOWU0MmIzMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bmtrbGk1MWtyazFjbm9ob2VvczFjNnY4bWJwcmZwZm9AaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OGp0bXUzcWNodGs3dWRxZ2d1c3JpajJ2a2lhcmtubGJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238E24AA&color=%23B39DDB&color=%239E69AF" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
